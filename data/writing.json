@@ -1,0 +1,196 @@
+{
+  "prompts": [
+    {
+      "id": "w-a2-01",
+      "level": "A2",
+      "title": "Last weekend",
+      "prompt_ru": "Напишите, как вы провели прошлые выходные. Где вы были? Что вы делали и с кем? Что вам понравилось больше всего?",
+      "prompt_en": "Write about how you spent last weekend. Where were you? What did you do, and with whom? What did you like most?",
+      "min_words": 60,
+      "focus": ["verb:past", "verb:motion", "case:prep"],
+      "tips": [
+        "в субботу утром / в воскресенье вечером (on Saturday morning / on Sunday evening)",
+        "сначала…, потом…, а вечером… (first…, then…, and in the evening…)",
+        "я ходил в кино / ездил за город (I went to the cinema / out of town, and came back)",
+        "мы были в парке / на концерте (we were in the park / at a concert: в/на + prepositional)",
+        "больше всего мне понравилось… (what I liked most was…)"
+      ]
+    },
+    {
+      "id": "w-a2-02",
+      "level": "A2",
+      "title": "Invite a friend",
+      "prompt_ru": "Напишите сообщение другу из России и пригласите его к себе в гости в Германию. Напишите, когда лучше приехать, где он будет жить и что вы будете делать вместе.",
+      "prompt_en": "Write a message to a friend from Russia inviting him to visit you in Germany. Say when the best time to come is, where he will stay and what you will do together.",
+      "min_words": 60,
+      "focus": ["verb:future", "verb:imperative", "verb:motion"],
+      "tips": [
+        "Приезжай ко мне в гости! (Come and visit me!)",
+        "Лучше всего приехать в мае (The best time to come is May)",
+        "Ты будешь жить у меня (You'll stay at my place: у + genitive)",
+        "Мы будем гулять по городу и поедем в горы (We'll walk around the town and go to the mountains)",
+        "Напиши, когда тебе удобно (Let me know when suits you)"
+      ]
+    },
+    {
+      "id": "w-a2-03",
+      "level": "A2",
+      "title": "My town",
+      "prompt_ru": "Опишите город, где вы живёте. Какой он? Что в нём есть? Где вы любите бывать? Что вам нравится, а что не нравится?",
+      "prompt_en": "Describe the town where you live. What is it like? What is there? Where do you like to go? What do you like and dislike about it?",
+      "min_words": 60,
+      "focus": ["adj", "case:prep", "case:gen"],
+      "tips": [
+        "Я живу в небольшом городе на юге Германии (I live in a small town in the south of Germany)",
+        "В городе есть старый центр, но нет метро (There is an old centre but no metro: нет + genitive)",
+        "много парков, мало машин (lots of parks, few cars: много/мало + genitive plural)",
+        "Мне нравится, что… / Мне не нравится, что… (I like / don't like that…)",
+        "Я часто бываю в кафе на площади (I often go to the café on the square)"
+      ]
+    },
+    {
+      "id": "w-a2-04",
+      "level": "A2",
+      "title": "Free time",
+      "prompt_ru": "Расскажите, чем вы занимаетесь в свободное время. Как часто? С кем? Почему вам это нравится?",
+      "prompt_en": "Write about what you do in your free time. How often? With whom? Why do you like it?",
+      "min_words": 60,
+      "focus": ["case:inst", "case:dat", "verb:reflexive"],
+      "tips": [
+        "Я занимаюсь спортом / музыкой (I do sport / music: заниматься + instrumental)",
+        "Мне нравится читать и гулять (I like reading and walking: мне нравится + infinitive)",
+        "раз в неделю, два раза в месяц, по выходным (once a week, twice a month, at weekends)",
+        "с другом, с семьёй, с коллегами (with a friend, with my family, with colleagues: с + instrumental)",
+        "Я интересуюсь историей (I'm interested in history: интересоваться + instrumental)"
+      ]
+    },
+    {
+      "id": "w-b1-01",
+      "level": "B1",
+      "title": "Email to your landlord",
+      "prompt_ru": "У вас в квартире уже неделю не работает отопление, а на улице холодно. Напишите письмо хозяину квартиры: опишите проблему, объясните, почему её нужно решить быстро, и предложите, когда может прийти мастер.",
+      "prompt_en": "The heating in your flat hasn't worked for a week, and it's cold outside. Write an email to your landlord: describe the problem, explain why it needs to be fixed quickly and suggest when a repair person could come.",
+      "min_words": 120,
+      "focus": ["phrase", "verb:aspect", "syn:conditional"],
+      "tips": [
+        "Уважаемый Андрей Викторович! (Dear Andrei Viktorovich: formal, first name + patronymic)",
+        "Пишу вам, потому что… (I'm writing to you because…)",
+        "Уже неделю не работает отопление (The heating hasn't worked for a week: Russian uses the present tense here)",
+        "Не могли бы вы прислать мастера в среду или в четверг? (Could you send a repair person on Wednesday or Thursday?)",
+        "Заранее спасибо. С уважением, … (Thanks in advance. Kind regards, …)"
+      ]
+    },
+    {
+      "id": "w-b1-02",
+      "level": "B1",
+      "title": "A trip to remember",
+      "prompt_ru": "Расскажите о поездке, которая вам особенно запомнилась. Куда и с кем вы ездили? Как вы туда добирались? Что случилось во время поездки и почему вы её не забыли?",
+      "prompt_en": "Write about a trip you remember particularly well. Where did you go and with whom? How did you get there? What happened during the trip, and why haven't you forgotten it?",
+      "min_words": 120,
+      "focus": ["verb:motion", "verb:aspect", "verb:past"],
+      "tips": [
+        "Несколько лет назад я ездил в… (A few years ago I went to…: a round trip)",
+        "Мы добрались до Праги на поезде (We got to Prague by train)",
+        "Когда мы приехали, оказалось, что… (When we arrived, it turned out that…)",
+        "Каждый день мы ходили на пляж, а однажды… (Every day we went to the beach, and one day…: imperfective for routine, perfective for a one-off event)",
+        "Эта поездка запомнилась мне, потому что… (This trip stayed with me because…)"
+      ]
+    },
+    {
+      "id": "w-b1-03",
+      "level": "B1",
+      "title": "Why I'm learning Russian",
+      "prompt_ru": "Напишите, почему вы учите русский язык. Что вам даётся легко, а что трудно? Как вы занимаетесь и чего хотите добиться через год?",
+      "prompt_en": "Write about why you are learning Russian. What comes easily to you and what is hard? How do you study, and what do you want to achieve in a year?",
+      "min_words": 120,
+      "focus": ["syn:conj", "case:dat", "syn:impersonal"],
+      "tips": [
+        "Я учу русский, потому что… / так как… (I'm learning Russian because… / since…)",
+        "Мне легко понимать, но трудно говорить (It's easy for me to understand but hard to speak: dative + adverb)",
+        "Больше всего проблем у меня с падежами (Cases give me the most trouble)",
+        "Я стараюсь заниматься каждый день, хотя времени мало (I try to study every day, although there's little time)",
+        "Через год я хочу свободно говорить, чтобы… (In a year I want to speak fluently so that…)"
+      ]
+    },
+    {
+      "id": "w-b1-04",
+      "level": "B1",
+      "title": "A restaurant review",
+      "prompt_ru": "Напишите отзыв о кафе или ресторане, где вы недавно были. Опишите место, еду и обслуживание. Посоветуете ли вы его другим? Почему?",
+      "prompt_en": "Write a review of a café or restaurant you visited recently. Describe the place, the food and the service. Would you recommend it to others? Why?",
+      "min_words": 120,
+      "focus": ["adj", "syn:relative", "phrase"],
+      "tips": [
+        "Недавно я был в ресторане «…», который находится в центре (Recently I went to the restaurant '…', which is in the centre)",
+        "Интерьер уютный, но там довольно шумно (The interior is cosy, but it's rather noisy)",
+        "Мне особенно понравился суп / понравилась рыба (I especially liked the soup / the fish: понравиться agrees with the thing liked)",
+        "Официант был вежливым, хотя нам пришлось долго ждать (The waiter was polite, although we had to wait a long time)",
+        "Советую это место тем, кто любит… (I recommend this place to those who like…)"
+      ]
+    },
+    {
+      "id": "w-b2-01",
+      "level": "B2",
+      "title": "A complaint",
+      "prompt_ru": "Вы заказали в интернет-магазине дорогую кофемашину. Её привезли на две недели позже, чем обещали, и она не работает. Служба поддержки не отвечает. Напишите официальную жалобу: изложите факты, объясните, чем вы недовольны, и чётко сформулируйте свои требования.",
+      "prompt_en": "You ordered an expensive coffee machine from an online shop. It arrived two weeks later than promised and it doesn't work. Customer support isn't answering. Write a formal complaint: set out the facts, explain what you are unhappy about and state your demands clearly.",
+      "min_words": 180,
+      "focus": ["phrase", "case:gen", "verb:aspect"],
+      "tips": [
+        "Обращаюсь к вам в связи с заказом номер… (I am contacting you regarding order number…)",
+        "Товар был доставлен с опозданием на две недели (The item was delivered two weeks late)",
+        "До сих пор я не получил никакого ответа (I still haven't received any reply: не + genitive)",
+        "Прошу вернуть мне деньги в течение десяти дней (I request a refund within ten days)",
+        "В противном случае я буду вынужден обратиться в суд (Otherwise I will be forced to take legal action)"
+      ]
+    },
+    {
+      "id": "w-b2-02",
+      "level": "B2",
+      "title": "A film or book review",
+      "prompt_ru": "Напишите рецензию на свой любимый фильм или свою любимую книгу. Кратко расскажите, о чём это произведение (не раскрывая финала), оцените сюжет, героев и главную идею и объясните, кому бы вы его порекомендовали.",
+      "prompt_en": "Write a review of your favourite film or book. Briefly say what it is about (without giving away the ending), assess the plot, the characters and the main idea, and explain who you would recommend it to.",
+      "min_words": 180,
+      "focus": ["syn:relative", "adj", "syn:conditional"],
+      "tips": [
+        "Действие происходит в… / Фильм рассказывает о… (The story takes place in… / The film is about…)",
+        "Главный герой, молодой врач, переезжает в маленький город (The main character, a young doctor, moves to a small town: tell the plot in the present tense)",
+        "Больше всего меня поразило то, что… (What struck me most was that…)",
+        "Единственный недостаток, на мой взгляд, — слишком затянутый финал (The only weakness, in my view, is an ending that drags on)",
+        "Я бы порекомендовал эту книгу тем, кто… (I would recommend this book to those who…)"
+      ]
+    },
+    {
+      "id": "w-b2-03",
+      "level": "B2",
+      "title": "Cars in the city centre",
+      "prompt_ru": "Во многих европейских городах обсуждают, не закрыть ли исторический центр для машин. Как вы к этому относитесь? Что выиграют и что потеряют жители? Приведите примеры из своего города.",
+      "prompt_en": "Many European cities are debating whether to close their historic centres to cars. What is your view? What would residents gain and what would they lose? Give examples from your own town.",
+      "min_words": 180,
+      "focus": ["syn:conditional", "syn:conj", "modal"],
+      "tips": [
+        "Если бы в центре не было машин, воздух стал бы чище (If there were no cars in the centre, the air would be cleaner)",
+        "Нельзя не признать, что… (One has to admit that…)",
+        "Это приведёт к тому, что… (This will lead to…)",
+        "Тем не менее нужно учитывать интересы тех, кто ездит на работу на машине (Nevertheless, we must consider the interests of those who drive to work)",
+        "На мой взгляд, разумнее было бы… (In my view, it would be more sensible to…)"
+      ]
+    },
+    {
+      "id": "w-b2-04",
+      "level": "B2",
+      "title": "A difficult decision",
+      "prompt_ru": "Опишите трудное решение, которое вам пришлось принять (например, переезд в другой город или смена работы). Какие были варианты? Почему вы выбрали именно этот? Что бы вы сделали иначе, если бы могли вернуться в прошлое?",
+      "prompt_en": "Describe a difficult decision you had to make (for example, moving to another city or changing jobs). What were the options? Why did you choose the one you did? What would you do differently if you could go back?",
+      "min_words": 180,
+      "focus": ["syn:conditional", "verb:aspect", "syn:impersonal"],
+      "tips": [
+        "Передо мной стоял выбор: остаться или уехать (I faced a choice: to stay or to leave)",
+        "Мне пришлось… (I had to…: dative + пришлось + infinitive)",
+        "Взвесив все за и против, я решил… (Having weighed up the pros and cons, I decided…)",
+        "Если бы я тогда знал то, что знаю сейчас, я бы… (If I had known then what I know now, I would have…)",
+        "Я ни о чём не жалею, потому что… (I don't regret anything, because…)"
+      ]
+    }
+  ]
+}

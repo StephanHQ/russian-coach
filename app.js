@@ -233,7 +233,7 @@ const TAG_LABELS = {
   'case:inst': 'Instrumental', 'case:prep': 'Prepositional', 'case:plural': 'Plural cases',
   adj: 'Adjective endings', pron: 'Pronouns', poss: 'Possessives & свой', num: 'Numbers',
   'verb:conj': 'Conjugation', 'verb:past': 'Past tense', 'verb:future': 'Future tense', 'verb:aspect': 'Aspect',
-  'verb:motion': 'Verbs of motion', 'verb:reflexive': '-ся verbs', 'verb:imperative': 'Imperative',
+  'verb:motion': 'Verbs of motion', 'verb:reflexive': '-ся verbs', 'verb:imperative': 'Imperative', 'verb:participle': 'Participles & gerunds',
   modal: 'Modals (надо, можно…)', 'syn:impersonal': 'Impersonal (мне нравится…)', 'syn:conditional': 'Conditional (бы)',
   'syn:relative': 'который clauses', 'syn:conj': 'Conjunctions', vocab: 'Vocabulary', phrase: 'Phrases',
 };

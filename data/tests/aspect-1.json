@@ -1,0 +1,26 @@
+{
+  "id": "aspect-1",
+  "title": "Aspect: imperfective vs perfective",
+  "level": "A2–B2",
+  "tags": ["verb:aspect"],
+  "sheet": "aspect",
+  "feedback": "each",
+  "questions": [
+    {"type": "fill", "prompt": "Обычно я ___ кофе по утрам.", "base": "пить / выпить", "hint": "I usually drink coffee in the morning.", "answer": ["пью"], "tag": "verb:aspect", "level": "A2", "explain": "A habit (обычно, по утрам) → imperfective; only imperfective verbs have a present tense."},
+    {"type": "fill", "prompt": "Я ___ эту книгу за два дня.", "base": "читать / прочитать", "hint": "I read this book (all the way through) in two days.", "answer": ["прочитал", "прочитала"], "tag": "verb:aspect", "level": "A2", "explain": "за + time = how long it took to reach the result → perfective."},
+    {"type": "fill", "prompt": "Пожалуйста, ___ это слово ещё раз.", "base": "повторять / повторить", "hint": "Please repeat this word once more. (to your teacher)", "answer": ["повторите"], "tag": "verb:aspect", "level": "A2", "explain": "One concrete request → perfective imperative: повторите."},
+    {"type": "fill", "prompt": "Я ___ тебе каждый день.", "base": "писать / написать", "hint": "I will write to you every day.", "answer": ["буду писать"], "tag": "verb:aspect", "level": "B1", "explain": "A repeated action in the future → imperfective future: буду + infinitive."},
+    {"type": "fill", "prompt": "Пока я ___ ужин, я слушал радио.", "base": "готовить / приготовить", "hint": "While I was cooking dinner, I was listening to the radio.", "answer": ["готовил"], "tag": "verb:aspect", "level": "B1", "explain": "пока (while): two actions going on at the same time → imperfective."},
+    {"type": "fill", "prompt": "Мы начали ___ русский язык в школе.", "base": "учить / выучить", "hint": "We started learning Russian at school.", "answer": ["учить"], "tag": "verb:aspect", "level": "B1", "explain": "начать, кончить, продолжать, перестать + imperfective infinitive."},
+    {"type": "fill", "prompt": "Не ___ свет, я ещё читаю.", "base": "выключать / выключить", "hint": "Don't switch off the light, I'm still reading. (to a friend)", "answer": ["выключай"], "tag": "verb:aspect", "level": "B1", "explain": "Asking someone not to do something → не + imperfective imperative."},
+    {"type": "fill", "prompt": "Вы ___ этот фильм?", "base": "смотреть / посмотреть", "hint": "Have you ever seen this film? (just asking whether you have seen it at all)", "answer": ["смотрели"], "tag": "verb:aspect", "level": "B2", "explain": "Asking whether something has ever happened (a plain fact) → imperfective past."},
+    {"type": "fill", "prompt": "Пока тебя не было, к тебе ___ Антон.", "base": "приходить / прийти", "hint": "While you were out, Anton came to see you. (He has left again.)", "answer": ["приходил"], "tag": "verb:aspect", "level": "B2", "explain": "Came and left again (the result is cancelled) → imperfective; пришёл would mean he is here now."},
+    {"type": "fill", "prompt": "Я долго искал ключи, но так и не ___ их.", "base": "находить / найти", "hint": "I looked for the keys for a long time but never found them.", "answer": ["нашёл"], "tag": "verb:aspect", "level": "B2", "explain": "так и не + perfective = the expected result never came; искать is the process, найти the result."},
+    {"type": "mcq", "prompt": "Вчера мы весь вечер ___ в карты.", "hint": "Yesterday we played cards all evening.", "options": ["играли", "сыграли", "сыграем", "играем"], "answer": 0, "tag": "verb:aspect", "level": "A2", "explain": "весь вечер = duration → imperfective past."},
+    {"type": "mcq", "prompt": "Он перестал ___ мне.", "hint": "He stopped calling me.", "options": ["звонить", "позвонить", "позвонит", "звонит"], "answer": 0, "tag": "verb:aspect", "level": "B1", "explain": "перестать (stop) + imperfective infinitive."},
+    {"type": "mcq", "prompt": "Вдруг он ___ и вышел из комнаты.", "hint": "Suddenly he stood up and left the room.", "options": ["встал", "вставал", "встанет", "вставать"], "answer": 0, "tag": "verb:aspect", "level": "B1", "explain": "A sudden single action in a chain of events → perfective."},
+    {"type": "mcq", "prompt": "Эту дверь нельзя ___: она заперта, а ключа нет.", "hint": "This door can't be opened: it's locked and there's no key.", "options": ["открыть", "открывать", "открою", "открывай"], "answer": 0, "tag": "verb:aspect", "level": "B2", "explain": "нельзя + perfective = it's impossible; нельзя + imperfective = it's not allowed."},
+    {"type": "translate", "prompt": "I'll call you tomorrow.", "answer": ["Я позвоню тебе завтра.", "Завтра я тебе позвоню.", "Я тебе завтра позвоню.", "Я позвоню вам завтра."], "tag": "verb:aspect", "level": "A2", "explain": "One future action with a result → perfective future: позвоню."},
+    {"type": "translate", "prompt": "Don't forget your keys!", "answer": ["Не забудь ключи!", "Не забудьте ключи!", "Не забудь взять ключи!", "Не забудьте взять ключи!"], "tag": "verb:aspect", "level": "B2", "explain": "A warning against something happening by accident → не + perfective (не забудь)."}
+  ]
+}

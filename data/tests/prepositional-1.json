@@ -1,0 +1,26 @@
+{
+  "id": "prepositional-1",
+  "title": "Prepositional case",
+  "level": "A1–B2",
+  "tags": ["case:prep"],
+  "sheet": "prepositional",
+  "feedback": "each",
+  "questions": [
+    {"type": "fill", "prompt": "Мои родители живут в ___.", "base": "Вена", "hint": "My parents live in Vienna.", "answer": ["Вене"], "tag": "case:prep", "level": "A1", "explain": "в + prepositional (где?): -а → -е, Вена → в Вене."},
+    {"type": "fill", "prompt": "Книга лежит на ___.", "base": "стол", "hint": "The book is on the table.", "answer": ["столе"], "tag": "case:prep", "level": "A1", "explain": "на + prepositional: a noun ending in a consonant adds -е."},
+    {"type": "mcq", "prompt": "Он учится в ___.", "options": ["Англия", "Англии", "Англию", "Англией"], "answer": 1, "tag": "case:prep", "level": "A1", "explain": "Location → prepositional; -ия → -ии (never -ие)."},
+    {"type": "fill", "prompt": "Вчера мы были на ___.", "base": "концерт", "hint": "Yesterday we were at a concert.", "answer": ["концерте"], "tag": "case:prep", "level": "A2", "explain": "Events take на: на концерте, на уроке, на работе."},
+    {"type": "fill", "prompt": "Они живут в ___.", "base": "большой дом", "hint": "They live in a big house.", "answer": ["большом доме"], "tag": "case:prep", "level": "A2", "explain": "Masculine adjective -ом, noun -е: в большом доме."},
+    {"type": "mcq", "prompt": "Мама сейчас ___, она отправляет посылку.", "options": ["в почте", "на почте", "в почту", "на почту"], "answer": 1, "tag": "case:prep", "level": "A2", "explain": "почта is an на-word, and location (где?) needs the prepositional: на почте."},
+    {"type": "fill", "prompt": "Я часто думаю о ___.", "base": "она", "hint": "I often think about her.", "answer": ["ней"], "tag": "case:prep", "level": "A2", "explain": "After a preposition она becomes ней: о ней."},
+    {"type": "fill", "prompt": "Наш офис находится в этом ___.", "base": "здание", "hint": "Our office is in this building.", "answer": ["здании"], "tag": "case:prep", "level": "A2", "explain": "-ие → -ии in the prepositional: в здании."},
+    {"type": "mcq", "prompt": "Я живу в ___ квартире.", "options": ["новая", "новой", "новую", "новом"], "answer": 1, "tag": "case:prep", "level": "A2", "explain": "Feminine adjective in the prepositional: -ой (в новой квартире)."},
+    {"type": "fill", "prompt": "Грибы растут в ___.", "base": "лес", "hint": "Mushrooms grow in the forest.", "answer": ["лесу"], "tag": "case:prep", "level": "B1", "explain": "Some masculine nouns take a stressed -у after в / на: в лесу, в саду, в аэропорту."},
+    {"type": "fill", "prompt": "Мы встретились на ___.", "base": "Красная площадь", "hint": "We met on Red Square.", "answer": ["Красной площади"], "tag": "case:prep", "level": "B1", "explain": "Feminine adjective -ой; feminine noun in -ь → -и."},
+    {"type": "fill", "prompt": "Мой брат долго жил в разных ___.", "base": "страна", "hint": "My brother lived in different countries for a long time.", "answer": ["странах"], "tag": "case:prep", "level": "B1", "explain": "Prepositional plural: -ах / -ях."},
+    {"type": "fill", "prompt": "Мы ездили в Москву в ___.", "base": "прошлый год", "hint": "We went to Moscow last year.", "answer": ["прошлом году"], "tag": "case:prep", "level": "B1", "explain": "в … году: adjective -ом, and год takes the stressed -у."},
+    {"type": "mcq", "prompt": "Не говори об этом при ___.", "options": ["дети", "детей", "детям", "детях"], "answer": 3, "tag": "case:prep", "level": "B2", "explain": "при (in front of, in the presence of) + prepositional: при детях."},
+    {"type": "translate", "prompt": "My sister lives in Russia.", "answer": ["Моя сестра живёт в России.", "Сестра живёт в России."], "tag": "case:prep", "level": "A1", "explain": "в + prepositional: Россия → в России."},
+    {"type": "translate", "prompt": "We often talk about our children.", "answer": ["Мы часто говорим о наших детях.", "Мы часто говорим о своих детях.", "Мы часто разговариваем о наших детях.", "Мы часто разговариваем о своих детях."], "tag": "case:prep", "level": "B1", "explain": "о + prepositional plural: наши дети → о наших детях (свой is also fine)."}
+  ]
+}

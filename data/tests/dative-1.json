@@ -1,0 +1,26 @@
+{
+  "id": "dative-1",
+  "title": "Dative case",
+  "level": "A1–B2",
+  "tags": ["case:dat"],
+  "sheet": "dative",
+  "feedback": "each",
+  "questions": [
+    {"type": "fill", "prompt": "Скажи, ___ нравится Москва?", "base": "ты", "hint": "Tell me, do you like Moscow?", "answer": ["тебе"], "tag": "case:dat", "level": "A1", "explain": "нравиться: the person who likes is in the dative (ты → тебе)."},
+    {"type": "fill", "prompt": "Я часто звоню ___.", "base": "мама", "hint": "I often call my mum.", "answer": ["маме"], "tag": "case:dat", "level": "A1", "explain": "звонить + dative (unlike German anrufen + Akk): -а → -е."},
+    {"type": "mcq", "prompt": "Откройте, пожалуйста, окно, ___ жарко.", "options": ["я", "меня", "мне", "мной"], "answer": 2, "tag": "case:dat", "level": "A1", "explain": "States like жарко, холодно, скучно: the person is in the dative (мне)."},
+    {"type": "fill", "prompt": "Завтра я иду к ___.", "base": "врач", "hint": "Tomorrow I'm going to the doctor.", "answer": ["врачу"], "tag": "case:dat", "level": "A1", "explain": "Going to a person: к + dative (врач → к врачу)."},
+    {"type": "fill", "prompt": "Мы часто помогаем ___.", "base": "наш сосед", "hint": "We often help our neighbour.", "answer": ["нашему соседу", "своему соседу"], "tag": "case:dat", "level": "A2", "explain": "помогать + dative: наш → нашему, сосед → соседу."},
+    {"type": "fill", "prompt": "Сколько лет ___?", "base": "твой брат", "hint": "How old is your brother?", "answer": ["твоему брату"], "tag": "case:dat", "level": "A2", "explain": "Age: the person is in the dative (твоему брату)."},
+    {"type": "mcq", "prompt": "Мне очень ___ эти песни.", "options": ["нравится", "нравятся", "нравлюсь", "нравишься"], "answer": 1, "tag": "case:dat", "level": "A2", "explain": "The verb agrees with the thing liked: эти песни (plural) → нравятся."},
+    {"type": "fill", "prompt": "На этой неделе ___ надо много работать.", "base": "мы", "hint": "This week we have to work a lot.", "answer": ["нам"], "tag": "case:dat", "level": "A2", "explain": "надо, нужно, можно, нельзя + dative: мы → нам."},
+    {"type": "fill", "prompt": "В субботу мы идём в гости к ___.", "base": "они", "hint": "On Saturday we're visiting them.", "answer": ["ним"], "tag": "case:dat", "level": "A2", "explain": "к + dative; after a preposition им becomes ним."},
+    {"type": "mcq", "prompt": "Ты ___ веришь?", "options": ["он", "его", "ему", "нему"], "answer": 2, "tag": "case:dat", "level": "A2", "explain": "верить + dative; without a preposition there is no н-: ему."},
+    {"type": "fill", "prompt": "Мы долго гуляли по ___.", "base": "город", "hint": "We walked around the city for a long time.", "answer": ["городу"], "tag": "case:dat", "level": "B1", "explain": "по (along, around) + dative: город → по городу."},
+    {"type": "fill", "prompt": "Преподаватель объясняет ___ новое правило.", "base": "студенты", "hint": "The teacher is explaining the new rule to the students.", "answer": ["студентам"], "tag": "case:dat", "level": "B1", "explain": "Dative plural: -ам / -ям for every gender."},
+    {"type": "fill", "prompt": "Благодаря ___ я нашёл работу.", "base": "твоя помощь", "hint": "Thanks to your help I found a job.", "answer": ["твоей помощи"], "tag": "case:dat", "level": "B2", "explain": "благодаря + dative; feminine noun in -ь → -и."},
+    {"type": "mcq", "prompt": "Я очень благодарен ___.", "options": ["вы", "вас", "вам", "вами"], "answer": 2, "tag": "case:dat", "level": "B2", "explain": "благодарен + dative (but благодарить + accusative: благодарю вас)."},
+    {"type": "translate", "prompt": "My sister is 25 years old.", "answer": ["Моей сестре двадцать пять лет.", "Моей сестре 25 лет.", "Сестре двадцать пять лет.", "Сестре 25 лет."], "tag": "case:dat", "level": "A2", "explain": "Age: the person in the dative + number + год / года / лет."},
+    {"type": "translate", "prompt": "We have to call grandma today.", "answer": ["Нам надо сегодня позвонить бабушке.", "Сегодня нам надо позвонить бабушке.", "Нам нужно сегодня позвонить бабушке.", "Сегодня нам нужно позвонить бабушке."], "tag": "case:dat", "level": "B1", "explain": "Two datives: надо + dative (нам), звонить + dative (бабушке)."}
+  ]
+}

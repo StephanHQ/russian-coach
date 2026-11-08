@@ -1,0 +1,26 @@
+{
+  "id": "numbers-1",
+  "title": "Numbers: agreement, age, prices, time, dates",
+  "level": "A1–B1",
+  "tags": ["num"],
+  "sheet": "numbers",
+  "feedback": "each",
+  "questions": [
+    {"type": "fill", "prompt": "У меня два ___.", "base": "брат", "hint": "I have two brothers.", "answer": ["брата"], "tag": "num", "level": "A1", "explain": "2, 3, 4 + genitive singular: два брата."},
+    {"type": "fill", "prompt": "У нас ___ дочь и два сына.", "base": "один", "hint": "We have one daughter and two sons.", "answer": ["одна"], "tag": "num", "level": "A1", "explain": "один agrees in gender: дочь is feminine → одна."},
+    {"type": "fill", "prompt": "Мне двадцать один ___.", "base": "год", "hint": "I'm 21 years old.", "answer": ["год"], "tag": "num", "level": "A1", "explain": "Compound numbers follow the last word: двадцать один → год, just as after один."},
+    {"type": "fill", "prompt": "Моей сестре двадцать три ___.", "base": "год", "hint": "My sister is 23.", "answer": ["года"], "tag": "num", "level": "A2", "explain": "The last word is три → genitive singular: года."},
+    {"type": "fill", "prompt": "Моему сыну одиннадцать ___.", "base": "год", "hint": "My son is 11.", "answer": ["лет"], "tag": "num", "level": "A2", "explain": "11–14 always take the genitive plural (лет), even though they end in 1–4."},
+    {"type": "fill", "prompt": "Билет стоит пятьсот ___.", "base": "рубль", "hint": "The ticket costs 500 roubles.", "answer": ["рублей"], "tag": "num", "level": "A2", "explain": "5 and up (and round hundreds) + genitive plural: рублей."},
+    {"type": "fill", "prompt": "Сколько у тебя ___?", "base": "сестра", "hint": "How many sisters do you have?", "answer": ["сестёр"], "tag": "num", "level": "A2", "explain": "сколько + genitive plural for things you can count: сестра → сестёр."},
+    {"type": "fill", "prompt": "На столе лежат два ___ телефона.", "base": "новый", "hint": "There are two new phones on the table.", "answer": ["новых"], "tag": "num", "level": "B1", "explain": "After 2–4, an adjective with a masculine or neuter noun goes into the genitive plural: два новых телефона."},
+    {"type": "fill", "prompt": "Я родился ___ мая.", "base": "пятый", "hint": "I was born on the fifth of May.", "answer": ["пятого"], "tag": "num", "level": "B1", "explain": "On which date? → genitive of the ordinal, no preposition: пятого мая."},
+    {"type": "fill", "prompt": "Встретимся в пять минут ___.", "base": "шестой", "hint": "Let's meet at five past five.", "answer": ["шестого"], "tag": "num", "level": "B1", "explain": "Minutes past the hour count towards the next hour (ordinal in the genitive): 5:05 = пять минут шестого."},
+    {"type": "mcq", "prompt": "Я купил ___ книги.", "hint": "I bought two books.", "options": ["две", "два", "двух", "двое"], "answer": 0, "tag": "num", "level": "A1", "explain": "книга is feminine → две; два is for masculine and neuter nouns."},
+    {"type": "mcq", "prompt": "___ двадцать пять лет.", "hint": "I'm 25.", "options": ["Мне", "Я", "Меня", "У меня"], "answer": 0, "tag": "num", "level": "A1", "explain": "Age = dative + number + год / года / лет, with no verb: мне двадцать пять лет."},
+    {"type": "mcq", "prompt": "На встрече было пять ___.", "hint": "There were five people at the meeting.", "options": ["человек", "людей", "человека", "люди"], "answer": 0, "tag": "num", "level": "B1", "explain": "After a number, 'people' is человек: пять человек (людей goes with много, мало)."},
+    {"type": "mcq", "prompt": "Кофе стоит три ___.", "hint": "The coffee costs three euros.", "options": ["евро", "евра", "евров", "евры"], "answer": 0, "tag": "num", "level": "A2", "explain": "евро never changes: один евро, три евро, сто евро."},
+    {"type": "translate", "prompt": "Today is the first of December.", "answer": ["Сегодня первое декабря.", "Сегодня 1 декабря."], "tag": "num", "level": "B1", "explain": "Today's date: neuter ordinal (число is understood) + month in the genitive."},
+    {"type": "translate", "prompt": "We have two cats and five dogs.", "answer": ["У нас две кошки и пять собак.", "У нас два кота и пять собак.", "У нас есть две кошки и пять собак.", "У нас есть два кота и пять собак."], "tag": "num", "level": "A2", "explain": "две + genitive singular (кошки), пять + genitive plural (собак)."}
+  ]
+}

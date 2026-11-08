@@ -1,0 +1,26 @@
+{
+  "id": "genitive-1",
+  "title": "Genitive case",
+  "level": "A1–B2",
+  "tags": ["case:gen", "num"],
+  "sheet": "genitive",
+  "feedback": "each",
+  "questions": [
+    {"type": "fill", "prompt": "Это машина ___.", "base": "мой брат", "hint": "This is my brother's car.", "answer": ["моего брата"], "tag": "case:gen", "level": "A1", "explain": "The owner follows the thing, in the genitive: машина брата; мой → моего."},
+    {"type": "mcq", "prompt": "У меня нет ___.", "options": ["сестра", "сестры", "сестре", "сестру"], "answer": 1, "tag": "case:gen", "level": "A1", "explain": "нет + genitive: -а → -ы."},
+    {"type": "fill", "prompt": "Мой друг приехал из ___.", "base": "Франция", "hint": "My friend came from France.", "answer": ["Франции"], "tag": "case:gen", "level": "A1", "explain": "из + genitive: -ия → -ии."},
+    {"type": "fill", "prompt": "Я пью чай без ___.", "base": "молоко", "hint": "I drink tea without milk.", "answer": ["молока"], "tag": "case:gen", "level": "A1", "explain": "без + genitive: neuter -о → -а."},
+    {"type": "fill", "prompt": "У ___ много друзей.", "base": "она", "hint": "She has a lot of friends.", "answer": ["неё"], "tag": "case:gen", "level": "A2", "explain": "у + genitive; after a preposition её becomes неё."},
+    {"type": "fill", "prompt": "К сожалению, у меня нет ___.", "base": "время", "hint": "Unfortunately, I don't have time.", "answer": ["времени"], "tag": "case:gen", "level": "A2", "explain": "нет + genitive; время → времени (like имя → имени)."},
+    {"type": "fill", "prompt": "Вчера ___ не было на работе.", "base": "он", "hint": "He wasn't at work yesterday.", "answer": ["его"], "tag": "case:gen", "level": "A2", "explain": "не было + genitive; there is no preposition, so no н-: его."},
+    {"type": "fill", "prompt": "Мы ждём уже десять ___.", "base": "минута", "hint": "We've been waiting for ten minutes already.", "answer": ["минут"], "tag": "num", "level": "A2", "explain": "5–20 + genitive plural; feminine -а → no ending (минут)."},
+    {"type": "fill", "prompt": "Сколько у вас ___?", "base": "дети", "hint": "How many children do you have?", "answer": ["детей"], "tag": "case:gen", "level": "B1", "explain": "сколько + genitive plural; дети → детей."},
+    {"type": "fill", "prompt": "Моя дочь боится ___.", "base": "собака", "hint": "My daughter is afraid of dogs.", "answer": ["собак"], "tag": "case:gen", "level": "B1", "explain": "бояться + genitive; plural собаки → собак (no ending)."},
+    {"type": "fill", "prompt": "Мой брат старше ___.", "base": "я", "hint": "My brother is older than me.", "answer": ["меня"], "tag": "case:gen", "level": "B1", "explain": "Comparative + genitive means 'than': старше меня = старше, чем я."},
+    {"type": "mcq", "prompt": "В группе двадцать два ___.", "options": ["студент", "студента", "студентов", "студенты"], "answer": 1, "tag": "num", "level": "B1", "explain": "Numbers ending in 2, 3, 4 (except 12–14) take the genitive singular."},
+    {"type": "mcq", "prompt": "Мы купили килограмм ___.", "options": ["яблоки", "яблок", "яблоков", "яблоками"], "answer": 1, "tag": "case:gen", "level": "B1", "explain": "Quantity + genitive plural; neuter -о → no ending: яблок, not яблоков."},
+    {"type": "mcq", "prompt": "Я родился ___ мая.", "options": ["пятое", "пятого", "пятому", "пятым"], "answer": 1, "tag": "num", "level": "B2", "explain": "'On the 5th' = ordinal in the genitive (пятого); the month is genitive too (мая)."},
+    {"type": "translate", "prompt": "I don't have a car.", "answer": ["У меня нет машины.", "У меня нет автомобиля."], "tag": "case:gen", "level": "A1", "explain": "нет + genitive: машина → машины."},
+    {"type": "translate", "prompt": "Today there are a lot of people in the park.", "answer": ["Сегодня в парке много людей.", "В парке сегодня много людей."], "tag": "case:gen", "level": "B1", "explain": "много + genitive plural; люди → людей."}
+  ]
+}

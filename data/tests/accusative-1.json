@@ -1,0 +1,26 @@
+{
+  "id": "accusative-1",
+  "title": "Accusative case",
+  "level": "A1–B2",
+  "tags": ["case:acc"],
+  "sheet": "accusative",
+  "feedback": "each",
+  "questions": [
+    {"type": "fill", "prompt": "Сейчас я читаю ___.", "base": "книга", "hint": "I'm reading a book right now.", "answer": ["книгу"], "tag": "case:acc", "level": "A1", "explain": "Direct object: feminine -а → -у."},
+    {"type": "fill", "prompt": "Ты видишь ___?", "base": "Иван", "hint": "Do you see Ivan?", "answer": ["Ивана"], "tag": "case:acc", "level": "A1", "explain": "A living masculine noun: accusative = genitive (-а)."},
+    {"type": "mcq", "prompt": "Вечером я пойду в ___.", "options": ["аптека", "аптеке", "аптеку", "аптекой"], "answer": 2, "tag": "case:acc", "level": "A1", "explain": "Direction (куда?) → в + accusative: аптека → в аптеку."},
+    {"type": "fill", "prompt": "Летом мы поедем в ___.", "base": "Италия", "hint": "In the summer we'll go to Italy.", "answer": ["Италию"], "tag": "case:acc", "level": "A1", "explain": "Direction (куда?) → accusative: -ия → -ию."},
+    {"type": "fill", "prompt": "Я очень люблю ___.", "base": "моя бабушка", "hint": "I love my grandmother very much.", "answer": ["мою бабушку", "свою бабушку"], "tag": "case:acc", "level": "A2", "explain": "Feminine: possessive -ю, noun -у. свою is also correct here."},
+    {"type": "mcq", "prompt": "Мы купили ___ диван.", "options": ["новый", "нового", "новому", "новом"], "answer": 0, "tag": "case:acc", "level": "A2", "explain": "A masculine thing: accusative = nominative, so nothing changes."},
+    {"type": "fill", "prompt": "Мы встретимся в ___.", "base": "суббота", "hint": "We'll meet on Saturday.", "answer": ["субботу"], "tag": "case:acc", "level": "A2", "explain": "в + day of the week → accusative: в субботу."},
+    {"type": "fill", "prompt": "Он всё время смотрит на ___.", "base": "она", "hint": "He keeps looking at her.", "answer": ["неё"], "tag": "case:acc", "level": "A2", "explain": "смотреть на + accusative; after a preposition её becomes неё."},
+    {"type": "mcq", "prompt": "Ты знаешь ___ девушку?", "options": ["эта", "эту", "этой", "этого"], "answer": 1, "tag": "case:acc", "level": "A2", "explain": "Feminine accusative: эта → эту."},
+    {"type": "fill", "prompt": "Мы пригласили ___ на ужин.", "base": "наши друзья", "hint": "We invited our friends to dinner.", "answer": ["наших друзей", "своих друзей"], "tag": "case:acc", "level": "B1", "explain": "People in the plural: accusative = genitive (наших друзей)."},
+    {"type": "fill", "prompt": "Я благодарю ___ за помощь.", "base": "вы", "hint": "I thank you for your help.", "answer": ["вас"], "tag": "case:acc", "level": "B1", "explain": "благодарить + accusative (unlike German danken + Dativ)."},
+    {"type": "fill", "prompt": "Сын очень похож на ___.", "base": "отец", "hint": "The son looks a lot like his father.", "answer": ["отца"], "tag": "case:acc", "level": "B1", "explain": "похож на + accusative; отец is a person → отца (the е drops out)."},
+    {"type": "mcq", "prompt": "Моя дочь любит ___.", "options": ["собаки", "собак", "собакам", "собаках"], "answer": 1, "tag": "case:acc", "level": "B1", "explain": "Animals count as living: accusative plural = genitive plural (собак)."},
+    {"type": "fill", "prompt": "Я где-то видел ___.", "base": "этот мужчина", "hint": "I've seen this man somewhere.", "answer": ["этого мужчину"], "tag": "case:acc", "level": "B2", "explain": "мужчина changes like a feminine -а noun (-у), but этот follows the living masculine pattern (этого)."},
+    {"type": "translate", "prompt": "I see your brother.", "answer": ["Я вижу твоего брата.", "Я вижу вашего брата."], "tag": "case:acc", "level": "A1", "explain": "Living masculine noun: брат → брата, твой → твоего."},
+    {"type": "translate", "prompt": "On Saturday we're going to Moscow for a week.", "answer": ["В субботу мы едем в Москву на неделю.", "В субботу мы поедем в Москву на неделю.", "Мы едем в Москву на неделю в субботу."], "tag": "case:acc", "level": "B1", "explain": "Three accusatives: в субботу (day), в Москву (direction), на неделю (planned period)."}
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "a2-train",
+  "title": "Соседка по купе",
+  "title_en": "The woman in the compartment",
+  "level": "A2",
+  "topic": "travel",
+  "paragraphs": [
+    "Томас живёт в Гамбурге и уже два года учит русский язык. Весной он первый раз поехал в Россию. Из Москвы в Петербург он решил ехать ночным поездом, потому что в поезде всегда можно с кем-нибудь поговорить.",
+    "В купе уже сидела пожилая женщина. «Вы откуда?» — спросила она. «Из Германии, — ответил Томас. — Я немного говорю по-русски». — «Немного? Вы прекрасно говорите!» Женщину звали Валентина Петровна. Она достала из сумки пирожки с капустой: «Ешьте, ешьте, я сама пекла!»",
+    "Проводница принесла чай в стаканах с подстаканниками. Валентина Петровна спрашивала обо всём: о работе, о семье, о Гамбурге. Томас отвечал медленно и делал ошибки, но она терпеливо слушала и иногда исправляла его. Они разговаривали до полуночи.",
+    "Утром они были уже в Петербурге. На перроне Валентина Петровна попрощалась с Томасом на прекрасном немецком языке. Томас очень удивился. Оказалось, что она тридцать лет работала учительницей немецкого языка в школе. «Почему вы сразу не сказали?» — спросил он. «Но вы же хотели говорить по-русски!» — засмеялась она."
+  ],
+  "glossary": {
+    "весной": {"en": "in spring"},
+    "ночным": {"en": "night (adj.)", "note": "inst. of ночной; ехать ночным поездом = to take the night train"},
+    "поездом": {"en": "by train", "note": "inst. of поезд: the instrumental can mean 'by' (means of transport)"},
+    "кем-нибудь": {"en": "someone", "note": "inst. of кто-нибудь; с кем-нибудь = with someone"},
+    "купе": {"en": "train compartment", "note": "neuter, does not change its ending"},
+    "пожилая": {"en": "elderly", "note": "fem. of пожилой"},
+    "прекрасно": {"en": "excellently, beautifully"},
+    "звали": {"en": "was called", "note": "past of звать; женщину звали … = the woman's name was …"},
+    "достала": {"en": "took out", "note": "past fem. of достать (pf.)"},
+    "сумки": {"en": "bag", "note": "gen. of сумка; из + gen. = out of"},
+    "пирожки": {"en": "small pies (pirozhki)", "note": "pl. of пирожок"},
+    "капустой": {"en": "cabbage", "note": "inst. of капуста; с капустой = with cabbage filling"},
+    "ешьте": {"en": "eat! (help yourself)", "note": "imperative of есть"},
+    "пекла": {"en": "baked", "note": "past fem. of печь (impf.)"},
+    "проводница": {"en": "(female) train attendant", "note": "masc. проводник"},
+    "принесла": {"en": "brought", "note": "past fem. of принести (pf.)"},
+    "стаканах": {"en": "glasses", "note": "prep. pl. of стакан"},
+    "подстаканниками": {"en": "glass holders", "note": "inst. pl. of подстаканник: a metal holder for a tea glass, typical on Russian trains"},
+    "ошибки": {"en": "mistakes", "note": "acc. pl. of ошибка"},
+    "терпеливо": {"en": "patiently"},
+    "исправляла": {"en": "corrected", "note": "past fem. of исправлять (impf.)"},
+    "полуночи": {"en": "midnight", "note": "gen. of полночь; до + gen. = until"},
+    "перроне": {"en": "(railway) platform", "note": "prep. of перрон"},
+    "попрощалась": {"en": "said goodbye", "note": "past fem. of попрощаться (pf.); попрощаться с + inst."},
+    "немецком": {"en": "German", "note": "prep. of немецкий; на немецком языке = in German"},
+    "удивился": {"en": "was surprised", "note": "past masc. of удивиться (pf.)"},
+    "оказалось": {"en": "it turned out", "note": "past neut. of оказаться (pf.)"},
+    "учительницей": {"en": "(female) teacher", "note": "inst. of учительница; работать + inst. = to work as"},
+    "сразу": {"en": "straight away"},
+    "же": {"en": "after all (emphasis)", "note": "particle: вы же хотели… = but you wanted to…, didn't you?"},
+    "засмеялась": {"en": "laughed", "note": "past fem. of засмеяться (pf.): started to laugh"}
+  },
+  "questions": [
+    {
+      "type": "mcq",
+      "prompt": "Why did Thomas decide to take the night train?",
+      "options": ["It was cheaper than flying.", "There were no flights.", "On a train you can always talk to someone.", "His friends recommended it."],
+      "answer": 2,
+      "explain": "«…потому что в поезде всегда можно с кем-нибудь поговорить» = because on a train you can always talk to someone."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What did Valentina Petrovna offer him?",
+      "options": ["Cabbage pies she had baked herself", "Tea from her thermos", "Sandwiches from the station", "German chocolate"],
+      "answer": 0,
+      "explain": "«Она достала из сумки пирожки с капустой: … я сама пекла!» The tea was brought by the train attendant (проводница)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How did she react to his mistakes?",
+      "options": ["She laughed at them.", "She corrected every single mistake.", "She asked him to speak English.", "She listened patiently and sometimes corrected him."],
+      "answer": 3,
+      "explain": "«…она терпеливо слушала и иногда исправляла его» = she listened patiently and sometimes corrected him."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What was the surprise at the end?",
+      "options": ["She lived in Hamburg too.", "She spoke excellent German: she had been a German teacher.", "She had been Thomas's Russian teacher.", "She was also travelling to Germany."],
+      "answer": 1,
+      "explain": "«…попрощалась с Томасом на прекрасном немецком языке… она тридцать лет работала учительницей немецкого языка» = she said goodbye in excellent German; she had taught German for thirty years."
+    },
+    {
+      "type": "translate",
+      "prompt": "Thomas answered slowly, but she listened patiently.",
+      "answer": ["Томас отвечал медленно, но она терпеливо слушала.", "Томас медленно отвечал, но она терпеливо слушала.", "Томас отвечал медленно, но она слушала терпеливо."],
+      "explain": "Imperfective past (отвечал, слушала) for a process that went on for some time; adverbs медленно (slowly) and терпеливо (patiently)."
+    },
+    {
+      "type": "open",
+      "prompt": "Перескажите историю от лица Валентины Петровны (4–5 предложений). Начните так: «Весной я ехала в Петербург…»",
+      "en": "Retell the story from Valentina Petrovna's point of view (4–5 sentences). Begin with: 'In spring I was travelling to St Petersburg…'"
+    }
+  ]
+}

@@ -17,7 +17,7 @@ DATA = ROOT / "data"
 TAGS = {
     "case:nom", "case:acc", "case:gen", "case:dat", "case:inst", "case:prep", "case:plural",
     "adj", "pron", "poss", "num",
-    "verb:conj", "verb:past", "verb:future", "verb:aspect", "verb:motion", "verb:reflexive", "verb:imperative",
+    "verb:conj", "verb:past", "verb:future", "verb:aspect", "verb:motion", "verb:reflexive", "verb:imperative", "verb:participle",
     "modal", "syn:impersonal", "syn:conditional", "syn:relative", "syn:conj",
     "vocab", "phrase",
 }

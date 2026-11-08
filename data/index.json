@@ -1,0 +1,382 @@
+{
+ "sheets": [
+  {
+   "id": "accusative",
+   "title": "Accusative case (винительный падеж)",
+   "level": "A1–B1",
+   "tags": [
+    "case:acc"
+   ],
+   "tests": [
+    "accusative-1"
+   ]
+  },
+  {
+   "id": "aspect",
+   "title": "Aspect (вид глагола) — imperfective vs perfective",
+   "level": "A2–B2",
+   "tags": [
+    "verb:aspect"
+   ],
+   "tests": [
+    "aspect-1"
+   ]
+  },
+  {
+   "id": "cases",
+   "title": "The six cases at a glance (падежи)",
+   "level": "A1–B1",
+   "tags": [
+    "case:nom",
+    "case:acc",
+    "case:gen",
+    "case:dat",
+    "case:inst",
+    "case:prep",
+    "case:plural",
+    "adj"
+   ],
+   "tests": [
+    "cases-mixed-1"
+   ]
+  },
+  {
+   "id": "dative",
+   "title": "Dative case (дательный падеж)",
+   "level": "A1–B1",
+   "tags": [
+    "case:dat",
+    "syn:impersonal"
+   ],
+   "tests": [
+    "dative-1"
+   ]
+  },
+  {
+   "id": "genitive",
+   "title": "Genitive case (родительный падеж)",
+   "level": "A1–B2",
+   "tags": [
+    "case:gen",
+    "num"
+   ],
+   "tests": [
+    "genitive-1"
+   ]
+  },
+  {
+   "id": "instrumental",
+   "title": "Instrumental case (творительный падеж)",
+   "level": "A1–B2",
+   "tags": [
+    "case:inst"
+   ],
+   "tests": [
+    "instrumental-1"
+   ]
+  },
+  {
+   "id": "motion",
+   "title": "Verbs of motion (глаголы движения)",
+   "level": "A1–B2",
+   "tags": [
+    "verb:motion"
+   ],
+   "tests": [
+    "motion-1"
+   ]
+  },
+  {
+   "id": "numbers",
+   "title": "Numbers (числительные) — counting, age, prices, time, dates",
+   "level": "A1–B1",
+   "tags": [
+    "num"
+   ],
+   "tests": [
+    "numbers-1"
+   ]
+  },
+  {
+   "id": "prepositional",
+   "title": "Prepositional case (предложный падеж)",
+   "level": "A1–B2",
+   "tags": [
+    "case:prep"
+   ],
+   "tests": [
+    "prepositional-1"
+   ]
+  },
+  {
+   "id": "verbs",
+   "title": "Verbs (глаголы) — present, past, future, -ся, imperative",
+   "level": "A1–B1",
+   "tags": [
+    "verb:conj",
+    "verb:past",
+    "verb:future",
+    "verb:reflexive",
+    "verb:imperative"
+   ],
+   "tests": [
+    "verbs-1"
+   ]
+  }
+ ],
+ "tests": [
+  {
+   "id": "accusative-1",
+   "title": "Accusative case",
+   "level": "A1–B2",
+   "tags": [
+    "case:acc"
+   ],
+   "sheet": "accusative",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
+   "id": "aspect-1",
+   "title": "Aspect: imperfective vs perfective",
+   "level": "A2–B2",
+   "tags": [
+    "verb:aspect"
+   ],
+   "sheet": "aspect",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
+   "id": "cases-mixed-1",
+   "title": "All six cases: mixed practice",
+   "level": "A1–B2",
+   "tags": [
+    "case:nom",
+    "case:gen",
+    "case:dat",
+    "case:acc",
+    "case:inst",
+    "case:prep",
+    "case:plural"
+   ],
+   "sheet": "cases",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
+   "id": "dative-1",
+   "title": "Dative case",
+   "level": "A1–B2",
+   "tags": [
+    "case:dat"
+   ],
+   "sheet": "dative",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
+   "id": "genitive-1",
+   "title": "Genitive case",
+   "level": "A1–B2",
+   "tags": [
+    "case:gen",
+    "num"
+   ],
+   "sheet": "genitive",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
+   "id": "instrumental-1",
+   "title": "Instrumental case",
+   "level": "A1–B2",
+   "tags": [
+    "case:inst"
+   ],
+   "sheet": "instrumental",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
+   "id": "motion-1",
+   "title": "Verbs of motion: идти / ходить, ехать / ездить, prefixes",
+   "level": "A1–B2",
+   "tags": [
+    "verb:motion"
+   ],
+   "sheet": "motion",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
+   "id": "numbers-1",
+   "title": "Numbers: agreement, age, prices, time, dates",
+   "level": "A1–B1",
+   "tags": [
+    "num"
+   ],
+   "sheet": "numbers",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
+   "id": "placement",
+   "title": "Placement test",
+   "level": "A1–B2",
+   "tags": [
+    "case:nom",
+    "case:acc",
+    "case:gen",
+    "case:dat",
+    "case:inst",
+    "case:prep",
+    "case:plural",
+    "adj",
+    "pron",
+    "poss",
+    "num",
+    "verb:conj",
+    "verb:past",
+    "verb:future",
+    "verb:aspect",
+    "verb:motion",
+    "verb:imperative",
+    "modal",
+    "syn:impersonal",
+    "syn:conditional",
+    "syn:relative",
+    "syn:conj"
+   ],
+   "sheet": null,
+   "feedback": "end",
+   "count": 48,
+   "placement": true
+  },
+  {
+   "id": "prepositional-1",
+   "title": "Prepositional case",
+   "level": "A1–B2",
+   "tags": [
+    "case:prep"
+   ],
+   "sheet": "prepositional",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
+   "id": "verbs-1",
+   "title": "Verbs: present, past, future, -ся, imperative",
+   "level": "A1–B1",
+   "tags": [
+    "verb:conj",
+    "verb:past",
+    "verb:future",
+    "verb:reflexive",
+    "verb:imperative"
+   ],
+   "sheet": "verbs",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  }
+ ],
+ "readings": [
+  {
+   "id": "a2-train",
+   "title": "Соседка по купе",
+   "title_en": "The woman in the compartment",
+   "level": "A2",
+   "topic": "travel",
+   "words": 156,
+   "questions": 6
+  },
+  {
+   "id": "a2-weekend",
+   "title": "Выходные без телефона",
+   "title_en": "A weekend without a phone",
+   "level": "A2",
+   "topic": "daily life",
+   "words": 168,
+   "questions": 7
+  },
+  {
+   "id": "b1-dacha",
+   "title": "Выходные на даче",
+   "title_en": "A weekend at the dacha",
+   "level": "B1",
+   "topic": "culture",
+   "words": 260,
+   "questions": 7
+  },
+  {
+   "id": "b1-remote-work",
+   "title": "Мой офис — на кухне",
+   "title_en": "My office is in the kitchen",
+   "level": "B1",
+   "topic": "work",
+   "words": 244,
+   "questions": 7
+  },
+  {
+   "id": "b2-languages",
+   "title": "Не поздно ли учить язык?",
+   "title_en": "Too late to learn a language?",
+   "level": "B2",
+   "topic": "opinion",
+   "words": 342,
+   "questions": 7
+  },
+  {
+   "id": "b2-waltz",
+   "title": "Вальс этажом выше",
+   "title_en": "The waltz upstairs",
+   "level": "B2",
+   "topic": "short story",
+   "words": 341,
+   "questions": 7
+  }
+ ],
+ "version": "8c679a9df2",
+ "built": "2026-11-08T21:38:39Z",
+ "deck": 100,
+ "writing": 12,
+ "speaking": 12,
+ "tags": [
+  "adj",
+  "case:acc",
+  "case:dat",
+  "case:gen",
+  "case:inst",
+  "case:nom",
+  "case:plural",
+  "case:prep",
+  "modal",
+  "num",
+  "phrase",
+  "poss",
+  "pron",
+  "syn:conditional",
+  "syn:conj",
+  "syn:impersonal",
+  "syn:relative",
+  "verb:aspect",
+  "verb:conj",
+  "verb:future",
+  "verb:imperative",
+  "verb:motion",
+  "verb:participle",
+  "verb:past",
+  "verb:reflexive",
+  "vocab"
+ ]
+}

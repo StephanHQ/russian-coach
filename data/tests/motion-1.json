@@ -1,0 +1,26 @@
+{
+  "id": "motion-1",
+  "title": "Verbs of motion: идти / ходить, ехать / ездить, prefixes",
+  "level": "A1–B2",
+  "tags": ["verb:motion"],
+  "sheet": "motion",
+  "feedback": "each",
+  "questions": [
+    {"type": "fill", "prompt": "Сейчас я ___ в магазин.", "base": "идти / ходить", "hint": "I'm on my way to the shop right now.", "answer": ["иду"], "tag": "verb:motion", "level": "A1", "explain": "One direction, happening now → идти."},
+    {"type": "fill", "prompt": "Я каждый день ___ на работу пешком.", "base": "идти / ходить", "hint": "I walk to work every day.", "answer": ["хожу"], "tag": "verb:motion", "level": "A1", "explain": "A regular trip → ходить; я хожу (д → ж)."},
+    {"type": "fill", "prompt": "Каждое лето мы ___ на море.", "base": "ехать / ездить", "hint": "Every summer we go to the seaside.", "answer": ["ездим"], "tag": "verb:motion", "level": "A2", "explain": "Regular trips by transport → ездить."},
+    {"type": "fill", "prompt": "Вчера я ___ в кино.", "base": "идти / ходить", "hint": "Yesterday I went to the cinema (and came back).", "answer": ["ходил", "ходила"], "tag": "verb:motion", "level": "A2", "explain": "A round trip in the past → ходил (= был в кино)."},
+    {"type": "fill", "prompt": "Когда я ___ домой, я встретил друга.", "base": "идти / ходить", "hint": "When I was walking home, I met a friend.", "answer": ["шёл"], "tag": "verb:motion", "level": "A2", "explain": "One trip in progress in the past, as the background to another event → шёл."},
+    {"type": "fill", "prompt": "Антона нет, он ___ в магазин.", "base": "ходить / пойти", "hint": "Anton isn't here: he has gone to the shop (and isn't back yet).", "answer": ["пошёл"], "tag": "verb:motion", "level": "B1", "explain": "пошёл = has set off and isn't back; ходил = went and came back."},
+    {"type": "fill", "prompt": "Сегодня он ___ из дома в восемь и ещё не вернулся.", "base": "выходить / выйти", "hint": "Today he left the house at eight and hasn't come back yet.", "answer": ["вышел"], "tag": "verb:motion", "level": "B1", "explain": "вы- + из = out of; one completed exit → perfective вышел."},
+    {"type": "fill", "prompt": "Мама каждое утро ___ сына в детский сад.", "base": "вести / водить", "hint": "Every morning Mum takes her son to kindergarten (on foot).", "answer": ["водит"], "tag": "verb:motion", "level": "B1", "explain": "Regular → водить (вожу, водишь, водит); ведёт = she is taking him right now."},
+    {"type": "fill", "prompt": "Он ___ по комнате и думал.", "base": "идти / ходить", "hint": "He was pacing up and down the room, thinking.", "answer": ["ходил"], "tag": "verb:motion", "level": "B1", "explain": "Moving back and forth, with no single direction → ходить."},
+    {"type": "fill", "prompt": "Я ___ за тобой в семь.", "base": "заходить / зайти", "hint": "I'll come by and pick you up at seven.", "answer": ["зайду"], "tag": "verb:motion", "level": "B2", "explain": "зайти за + instrumental = come by to pick someone up; one future action → perfective."},
+    {"type": "mcq", "prompt": "— Где вы были в субботу? — Мы ___ в театр.", "hint": "Where were you on Saturday? — We went to the theatre.", "options": ["ходили", "шли", "идём", "ходим"], "answer": 0, "tag": "verb:motion", "level": "A2", "explain": "A round trip in the past: ходили в театр = были в театре."},
+    {"type": "mcq", "prompt": "Он вернулся ___ работы поздно.", "hint": "He came back from work late.", "options": ["с", "из", "от", "на"], "answer": 0, "tag": "verb:motion", "level": "A2", "explain": "The pairs are fixed: на работу → с работы, в школу → из школы, к врачу → от врача."},
+    {"type": "mcq", "prompt": "Как ___ до центра на автобусе?", "hint": "How do I get to the city centre by bus?", "options": ["доехать", "дойти", "заехать", "уехать"], "answer": 0, "tag": "verb:motion", "level": "B1", "explain": "до- + до + genitive = get as far as; by bus → a verb from ехать: доехать."},
+    {"type": "mcq", "prompt": "Она всегда ___ очки.", "hint": "She always wears glasses.", "options": ["носит", "несёт", "водит", "ведёт"], "answer": 0, "tag": "verb:motion", "level": "B1", "explain": "носить also means 'to wear' (as a habit): она носит очки."},
+    {"type": "translate", "prompt": "I'm going to the doctor tomorrow.", "answer": ["Завтра я иду к врачу.", "Я завтра иду к врачу.", "Завтра я пойду к врачу.", "Я завтра пойду к врачу."], "tag": "verb:motion", "level": "A2", "explain": "A planned trip: иду (present for a plan) or пойду; to a person → к + dative."},
+    {"type": "translate", "prompt": "My parents came to visit me last week.", "answer": ["На прошлой неделе ко мне приезжали родители.", "Родители приезжали ко мне на прошлой неделе.", "На прошлой неделе ко мне приезжали мои родители.", "Мои родители приезжали ко мне на прошлой неделе."], "tag": "verb:motion", "level": "B2", "explain": "The visit is over (they came and left) → imperfective приезжали (приходили if they live nearby); приехали suggests they are still here."}
+  ]
+}

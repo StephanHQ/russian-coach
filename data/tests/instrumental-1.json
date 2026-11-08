@@ -1,0 +1,26 @@
+{
+  "id": "instrumental-1",
+  "title": "Instrumental case",
+  "level": "A1–B2",
+  "tags": ["case:inst"],
+  "sheet": "instrumental",
+  "feedback": "each",
+  "questions": [
+    {"type": "fill", "prompt": "Я пью кофе с ___.", "base": "молоко", "hint": "I drink coffee with milk.", "answer": ["молоком"], "tag": "case:inst", "level": "A1", "explain": "с (with) + instrumental: neuter -о → -ом."},
+    {"type": "fill", "prompt": "Вечером я гуляю с ___.", "base": "собака", "hint": "In the evening I walk the dog.", "answer": ["собакой"], "tag": "case:inst", "level": "A1", "explain": "с + instrumental: feminine -а → -ой."},
+    {"type": "mcq", "prompt": "Ты пойдёшь со ___ в магазин?", "options": ["я", "меня", "мне", "мной"], "answer": 3, "tag": "case:inst", "level": "A1", "explain": "с + instrumental: я → мной, and с becomes со (со мной)."},
+    {"type": "fill", "prompt": "Мой отец работает ___.", "base": "инженер", "hint": "My father works as an engineer.", "answer": ["инженером"], "tag": "case:inst", "level": "A2", "explain": "работать + instrumental for a job (German 'als')."},
+    {"type": "fill", "prompt": "Мне нужно поговорить с ___.", "base": "она", "hint": "I need to talk to her.", "answer": ["ней", "нею"], "tag": "case:inst", "level": "A2", "explain": "с + instrumental; after a preposition: с ней (с нею is bookish)."},
+    {"type": "mcq", "prompt": "Я хочу стать ___.", "options": ["врач", "врача", "врачу", "врачом"], "answer": 3, "tag": "case:inst", "level": "A2", "explain": "стать (to become) + instrumental: врачом."},
+    {"type": "fill", "prompt": "Кошка спит под ___.", "base": "стол", "hint": "The cat is sleeping under the table.", "answer": ["столом"], "tag": "case:inst", "level": "A2", "explain": "под + instrumental for location (где?)."},
+    {"type": "fill", "prompt": "Моя сестра занимается ___.", "base": "спорт", "hint": "My sister does sport.", "answer": ["спортом"], "tag": "case:inst", "level": "A2", "explain": "заниматься + instrumental (not делать спорт)."},
+    {"type": "mcq", "prompt": "Я всегда пишу ___.", "options": ["ручка", "ручку", "ручкой", "ручке"], "answer": 2, "tag": "case:inst", "level": "A2", "explain": "A tool goes in the instrumental without a preposition: писать ручкой."},
+    {"type": "fill", "prompt": "Мы с ___ ходили в театр.", "base": "жена", "hint": "My wife and I went to the theatre.", "answer": ["женой"], "tag": "case:inst", "level": "B1", "explain": "мы с + instrumental = 'X and I': мы с женой."},
+    {"type": "fill", "prompt": "Он интересуется ___.", "base": "русская история", "hint": "He's interested in Russian history.", "answer": ["русской историей"], "tag": "case:inst", "level": "B1", "explain": "интересоваться + instrumental; feminine adjective -ой, -ия → -ией."},
+    {"type": "fill", "prompt": "Я люблю гулять в парке с ___.", "base": "дети", "hint": "I like walking in the park with the children.", "answer": ["детьми"], "tag": "case:inst", "level": "B1", "explain": "The plural is usually -ами / -ями, but дети → детьми (люди → людьми)."},
+    {"type": "mcq", "prompt": "Наш дом находится рядом с ___ парком.", "options": ["большой", "большим", "большого", "большом"], "answer": 1, "tag": "case:inst", "level": "B1", "explain": "рядом с + instrumental; masculine adjective -ым / -им (большим)."},
+    {"type": "fill", "prompt": "Он руководит ___.", "base": "большая компания", "hint": "He runs a big company.", "answer": ["большой компанией"], "tag": "case:inst", "level": "B2", "explain": "руководить (to run, to lead) + instrumental."},
+    {"type": "translate", "prompt": "I want to talk to you.", "answer": ["Я хочу поговорить с тобой.", "Я хочу поговорить с вами.", "Я хочу с тобой поговорить.", "Я хочу с вами поговорить."], "tag": "case:inst", "level": "A2", "explain": "поговорить с + instrumental: ты → с тобой, вы → с вами."},
+    {"type": "translate", "prompt": "My brother is interested in football.", "answer": ["Мой брат интересуется футболом.", "Брат интересуется футболом.", "Мой брат увлекается футболом."], "tag": "case:inst", "level": "B1", "explain": "интересоваться + instrumental, no preposition: футбол → футболом."}
+  ]
+}

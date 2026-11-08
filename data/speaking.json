@@ -1,0 +1,309 @@
+{
+  "topics": [
+    {
+      "id": "sp-a2-01",
+      "level": "A2",
+      "title": "About yourself",
+      "prompt_ru": "Расскажите о себе.",
+      "prompt_en": "Talk about yourself.",
+      "questions": [
+        "Как вас зовут? Откуда вы?",
+        "Где вы живёте? Вам нравится ваш город?",
+        "Кем вы работаете? Что вы делаете на работе?",
+        "Расскажите о своей семье.",
+        "Где вы родились и где учились?",
+        "Почему вы учите русский язык?"
+      ],
+      "phrases": [
+        {"ru": "Меня зовут…", "en": "My name is…"},
+        {"ru": "Я родился в Мюнхене.", "en": "I was born in Munich (в + prepositional)."},
+        {"ru": "Я живу в Германии, в небольшом городе.", "en": "I live in Germany, in a small town."},
+        {"ru": "Я работаю инженером.", "en": "I work as an engineer (работать + instrumental)."},
+        {"ru": "У меня есть брат и сестра.", "en": "I have a brother and a sister."},
+        {"ru": "Я учу русский уже два года.", "en": "I've been learning Russian for two years (present tense in Russian)."},
+        {"ru": "Я понимаю больше, чем могу сказать.", "en": "I understand more than I can say."}
+      ],
+      "focus": ["case:prep", "case:inst", "verb:past"]
+    },
+    {
+      "id": "sp-a2-02",
+      "level": "A2",
+      "title": "Food",
+      "prompt_ru": "Расскажите, что вы любите есть и готовить.",
+      "prompt_en": "Talk about what you like to eat and cook.",
+      "questions": [
+        "Что вы обычно едите на завтрак?",
+        "Вы любите готовить? Что вы готовите лучше всего?",
+        "Какую русскую еду вы знаете? Что вы уже пробовали?",
+        "Где вы обычно покупаете продукты?",
+        "Вы часто ходите в ресторан? Какая кухня вам нравится?",
+        "Что вы никогда не едите?"
+      ],
+      "phrases": [
+        {"ru": "На завтрак я обычно ем кашу или бутерброд.", "en": "For breakfast I usually have porridge or a sandwich."},
+        {"ru": "Я пью кофе без сахара.", "en": "I drink coffee without sugar (без + genitive)."},
+        {"ru": "Я не люблю рыбу.", "en": "I don't like fish (accusative: рыба → рыбу)."},
+        {"ru": "Я пробовал борщ и пельмени.", "en": "I've tried borscht and pelmeni."},
+        {"ru": "Я покупаю продукты на рынке.", "en": "I buy groceries at the market."},
+        {"ru": "Мне больше нравится итальянская кухня.", "en": "I prefer Italian food."},
+        {"ru": "Это очень вкусно!", "en": "It's delicious!"}
+      ],
+      "focus": ["case:acc", "case:gen", "verb:conj"]
+    },
+    {
+      "id": "sp-a2-03",
+      "level": "A2",
+      "title": "Home",
+      "prompt_ru": "Расскажите о своей квартире или доме.",
+      "prompt_en": "Talk about your flat or house.",
+      "questions": [
+        "Вы живёте в квартире или в доме?",
+        "Сколько у вас комнат? Какая комната ваша любимая?",
+        "Что стоит в вашей комнате?",
+        "Что есть рядом с вашим домом?",
+        "Какие у вас соседи?",
+        "Где вы жили раньше?"
+      ],
+      "phrases": [
+        {"ru": "Я живу в квартире на третьем этаже.", "en": "I live in a flat on the third floor."},
+        {"ru": "У меня две комнаты, кухня и ванная.", "en": "I have two rooms, a kitchen and a bathroom."},
+        {"ru": "В комнате стоит диван, а на стене висит картина.", "en": "There's a sofa in the room, and a picture hangs on the wall."},
+        {"ru": "Рядом с домом есть парк.", "en": "There's a park near the house (рядом с + instrumental)."},
+        {"ru": "Окна выходят во двор.", "en": "The windows look out onto the courtyard."},
+        {"ru": "Раньше я жил в центре.", "en": "I used to live in the centre."},
+        {"ru": "Мне нравится, что здесь тихо.", "en": "I like that it's quiet here."}
+      ],
+      "focus": ["case:prep", "adj", "case:inst"]
+    },
+    {
+      "id": "sp-a2-04",
+      "level": "A2",
+      "title": "Weekend plans",
+      "prompt_ru": "Расскажите о своих планах на выходные.",
+      "prompt_en": "Talk about your plans for the weekend.",
+      "questions": [
+        "Что вы будете делать в эти выходные?",
+        "Куда вы пойдёте или поедете?",
+        "С кем вы проведёте выходные?",
+        "Что вы будете делать, если будет плохая погода?",
+        "А что вы делали в прошлые выходные?",
+        "Как выглядят для вас идеальные выходные?"
+      ],
+      "phrases": [
+        {"ru": "В субботу я буду работать в саду.", "en": "On Saturday I'll be working in the garden."},
+        {"ru": "В воскресенье мы поедем за город.", "en": "On Sunday we'll go out of town."},
+        {"ru": "Я хочу пойти в кино.", "en": "I want to go to the cinema."},
+        {"ru": "Если будет хорошая погода, мы пойдём гулять.", "en": "If the weather is good, we'll go for a walk (future tense after если)."},
+        {"ru": "Может быть, я встречусь с друзьями.", "en": "Maybe I'll meet up with friends."},
+        {"ru": "Я ещё не знаю.", "en": "I don't know yet."},
+        {"ru": "Давай пойдём вместе!", "en": "Let's go together!"}
+      ],
+      "focus": ["verb:future", "verb:motion"]
+    },
+    {
+      "id": "sp-b1-01",
+      "level": "B1",
+      "title": "Travel",
+      "prompt_ru": "Расскажите о своих путешествиях.",
+      "prompt_en": "Talk about your travels.",
+      "questions": [
+        "Вы любите путешествовать? Почему?",
+        "Куда вы ездили в последний раз? Как вы туда добирались?",
+        "Вы предпочитаете путешествовать в одиночку или с компанией?",
+        "Что вы обычно берёте с собой в поездку?",
+        "Вы когда-нибудь были в России или в другой стране, где говорят по-русски?",
+        "Расскажите о самой необычной поездке в вашей жизни.",
+        "Куда вы мечтаете поехать и почему?"
+      ],
+      "phrases": [
+        {"ru": "В прошлом году я ездил в Италию.", "en": "Last year I went to Italy (ездил = went and came back)."},
+        {"ru": "Мы добирались сначала на поезде, а потом на автобусе.", "en": "We travelled first by train and then by bus."},
+        {"ru": "Мы остановились в небольшой гостинице.", "en": "We stayed in a small hotel."},
+        {"ru": "Я предпочитаю путешествовать в одиночку.", "en": "I prefer to travel alone."},
+        {"ru": "Больше всего мне запомнилось море.", "en": "What I remember most is the sea."},
+        {"ru": "Я давно мечтаю побывать в Сибири.", "en": "I've long dreamed of visiting Siberia."},
+        {"ru": "Самое главное в поездке — это хорошая компания.", "en": "The most important thing on a trip is good company."}
+      ],
+      "focus": ["verb:motion", "verb:aspect", "verb:past"]
+    },
+    {
+      "id": "sp-b1-02",
+      "level": "B1",
+      "title": "Work",
+      "prompt_ru": "Расскажите о своей работе.",
+      "prompt_en": "Talk about your work.",
+      "questions": [
+        "Кем вы работаете и чем занимаетесь?",
+        "Как проходит ваш обычный рабочий день?",
+        "Что вам нравится в вашей работе, а что нет?",
+        "Вы работаете в офисе или из дома? Что, по-вашему, удобнее?",
+        "Как вы добираетесь до работы?",
+        "Кем вы хотели стать в детстве?",
+        "Что бы вы изменили в своей работе, если бы могли?"
+      ],
+      "phrases": [
+        {"ru": "Я работаю менеджером в небольшой фирме.", "en": "I work as a manager at a small company."},
+        {"ru": "Я отвечаю за работу с клиентами.", "en": "I'm responsible for working with clients (отвечать за + accusative)."},
+        {"ru": "Мой рабочий день начинается в восемь.", "en": "My working day starts at eight."},
+        {"ru": "Мне нравится, что у меня гибкий график.", "en": "I like having flexible hours."},
+        {"ru": "Иногда приходится работать допоздна.", "en": "Sometimes I have to work late."},
+        {"ru": "В детстве я хотел стать лётчиком.", "en": "As a child I wanted to be a pilot (стать + instrumental)."},
+        {"ru": "Самое трудное в моей работе — это сроки.", "en": "The hardest thing about my job is the deadlines."}
+      ],
+      "focus": ["case:inst", "verb:aspect", "syn:impersonal"]
+    },
+    {
+      "id": "sp-b1-03",
+      "level": "B1",
+      "title": "Learning languages",
+      "prompt_ru": "Поговорим о том, как вы учите языки.",
+      "prompt_en": "Let's talk about how you learn languages.",
+      "questions": [
+        "Какие языки вы знаете? Где вы их учили?",
+        "Почему вы начали учить русский?",
+        "Что для вас самое трудное в русском языке?",
+        "Как вы занимаетесь? Что вам помогает?",
+        "Вы смотрите фильмы или слушаете музыку на русском?",
+        "Что вам легче: понимать или говорить? Почему?",
+        "Какой совет вы дали бы человеку, который начинает учить язык?"
+      ],
+      "phrases": [
+        {"ru": "Я свободно говорю по-английски.", "en": "I speak English fluently."},
+        {"ru": "Мне трудно даются падежи.", "en": "Cases are hard for me (даваться + dative)."},
+        {"ru": "Я понимаю почти всё, но говорить мне трудно.", "en": "I understand almost everything, but speaking is hard for me."},
+        {"ru": "Мне не хватает практики.", "en": "I don't get enough practice (не хватает + genitive)."},
+        {"ru": "Я стараюсь заниматься каждый день.", "en": "I try to study every day."},
+        {"ru": "Я боюсь сделать ошибку.", "en": "I'm afraid of making a mistake."},
+        {"ru": "Повторите, пожалуйста, помедленнее.", "en": "Please say that again a little more slowly."},
+        {"ru": "Как это сказать по-русски?", "en": "How do you say that in Russian?"}
+      ],
+      "focus": ["case:dat", "syn:impersonal", "modal"]
+    },
+    {
+      "id": "sp-b1-04",
+      "level": "B1",
+      "title": "Holidays and traditions",
+      "prompt_ru": "Расскажите о праздниках и традициях.",
+      "prompt_en": "Talk about holidays and traditions.",
+      "questions": [
+        "Какой ваш любимый праздник? Почему?",
+        "Как в Германии празднуют Рождество?",
+        "Как вы обычно встречаете Новый год?",
+        "Какие русские праздники вы знаете?",
+        "Как вы отметили свой последний день рождения?",
+        "Какие подарки вы любите дарить и получать?",
+        "Есть ли в вашей семье особые традиции?"
+      ],
+      "phrases": [
+        {"ru": "Мой любимый праздник — это Рождество.", "en": "My favourite holiday is Christmas."},
+        {"ru": "На Рождество вся семья собирается вместе.", "en": "At Christmas the whole family gets together."},
+        {"ru": "Новый год мы обычно встречаем с друзьями.", "en": "We usually see in the New Year with friends."},
+        {"ru": "У нас принято дарить подарки.", "en": "It's customary for us to give presents."},
+        {"ru": "В прошлом году я отметил день рождения в ресторане.", "en": "Last year I celebrated my birthday in a restaurant."},
+        {"ru": "Я подарил маме цветы.", "en": "I gave my mother flowers (дарить + dative)."},
+        {"ru": "Поздравляю с днём рождения!", "en": "Happy birthday! (поздравлять с + instrumental)"}
+      ],
+      "focus": ["case:dat", "verb:past", "phrase"]
+    },
+    {
+      "id": "sp-b2-01",
+      "level": "B2",
+      "title": "City or countryside",
+      "prompt_ru": "Где лучше жить: в большом городе или за городом?",
+      "prompt_en": "Where is it better to live: in a big city or in the countryside?",
+      "questions": [
+        "Где вы выросли: в городе или в деревне? Как это на вас повлияло?",
+        "Какие плюсы и минусы есть у жизни в большом городе?",
+        "Почему, по-вашему, молодые люди часто уезжают из деревень?",
+        "Изменилось ли отношение к жизни за городом с тех пор, как многие стали работать удалённо?",
+        "Где бы вы хотели жить на пенсии и почему?",
+        "Что нужно сделать, чтобы маленькие города стали привлекательнее для молодёжи?"
+      ],
+      "phrases": [
+        {"ru": "С одной стороны, в городе удобнее, с другой стороны, там слишком шумно.", "en": "On the one hand the city is more convenient; on the other hand, it's too noisy."},
+        {"ru": "В большом городе больше возможностей, зато в деревне спокойнее.", "en": "A big city offers more opportunities, but (on the plus side) the countryside is calmer."},
+        {"ru": "Жизнь за городом подходит не всем.", "en": "Country life doesn't suit everyone."},
+        {"ru": "Если бы у меня была возможность, я бы жил у моря.", "en": "If I had the chance, I would live by the sea."},
+        {"ru": "Всё зависит от того, чем человек занимается.", "en": "It all depends on what a person does."},
+        {"ru": "Это связано с тем, что в деревнях мало работы.", "en": "This has to do with the fact that there is little work in villages."},
+        {"ru": "Я убеждён, что маленьким городам нужна поддержка.", "en": "I'm convinced that small towns need support."}
+      ],
+      "focus": ["syn:conditional", "syn:conj", "adj"]
+    },
+    {
+      "id": "sp-b2-02",
+      "level": "B2",
+      "title": "Technology in our lives",
+      "prompt_ru": "Как технологии меняют нашу жизнь?",
+      "prompt_en": "How is technology changing our lives?",
+      "questions": [
+        "Сколько времени в день вы проводите в телефоне? Вас это устраивает?",
+        "Какие технологии сделали вашу жизнь проще, а какие — сложнее?",
+        "Как вы относитесь к социальным сетям?",
+        "Должны ли родители ограничивать время, которое дети проводят в интернете?",
+        "Может ли искусственный интеллект заменить учителя или переводчика?",
+        "Какое изобретение последних двадцати лет вы считаете самым важным и почему?"
+      ],
+      "phrases": [
+        {"ru": "Я не представляю себе жизни без интернета.", "en": "I can't imagine life without the internet."},
+        {"ru": "Это экономит массу времени.", "en": "It saves a huge amount of time."},
+        {"ru": "Нельзя отрицать, что соцсети помогают людям общаться.", "en": "There's no denying that social media help people stay in touch."},
+        {"ru": "Меня беспокоит то, что дети мало читают.", "en": "What worries me is that children read so little."},
+        {"ru": "Благодаря интернету можно учиться где угодно.", "en": "Thanks to the internet you can study anywhere (благодаря + dative)."},
+        {"ru": "Я отношусь к этому скептически.", "en": "I'm sceptical about it."},
+        {"ru": "Всё хорошо в меру.", "en": "Everything in moderation."}
+      ],
+      "focus": ["syn:relative", "syn:conj", "modal"]
+    },
+    {
+      "id": "sp-b2-03",
+      "level": "B2",
+      "title": "Work and private life",
+      "prompt_ru": "Как найти баланс между работой и личной жизнью?",
+      "prompt_en": "How do you find a balance between work and private life?",
+      "questions": [
+        "Что для вас важнее в работе: деньги, интерес или свободное время?",
+        "Как вы отдыхаете после тяжёлого рабочего дня?",
+        "Нужно ли отвечать на рабочие письма вечером и в выходные?",
+        "Как вы относитесь к удалённой работе? Подходит ли она всем?",
+        "Стоит ли менять работу, если она хорошо оплачивается, но не приносит радости?",
+        "Как, по-вашему, изменится работа через двадцать лет?"
+      ],
+      "phrases": [
+        {"ru": "Для меня важнее всего свободное время.", "en": "What matters most to me is free time."},
+        {"ru": "Работа не должна занимать всю жизнь.", "en": "Work shouldn't take over your whole life."},
+        {"ru": "Я стараюсь не проверять почту по вечерам.", "en": "I try not to check my email in the evenings."},
+        {"ru": "Это зависит от профессии.", "en": "It depends on the profession."},
+        {"ru": "На мой взгляд, стоило бы сократить рабочую неделю.", "en": "In my view, it would be worth shortening the working week."},
+        {"ru": "Я бы ни за что не согласился работать по выходным.", "en": "I would never agree to work at weekends."},
+        {"ru": "Главное — не выгореть.", "en": "The main thing is not to burn out."}
+      ],
+      "focus": ["modal", "syn:conditional", "syn:impersonal"]
+    },
+    {
+      "id": "sp-b2-04",
+      "level": "B2",
+      "title": "Cultural differences",
+      "prompt_ru": "Чем отличается повседневная культура в разных странах?",
+      "prompt_en": "How does everyday culture differ from country to country?",
+      "questions": [
+        "Что вас удивляло в общении с людьми из других стран?",
+        "Какие стереотипы о немцах вы слышали? Насколько они верны?",
+        "Как принято ходить в гости в Германии? А что вы знаете о русских традициях гостеприимства?",
+        "Насколько важна пунктуальность в вашей культуре?",
+        "Можно ли по-настоящему понять другую культуру, не зная языка?",
+        "Что вы переняли из других культур?"
+      ],
+      "phrases": [
+        {"ru": "В отличие от Германии, в России Новый год важнее Рождества.", "en": "Unlike in Germany, in Russia New Year matters more than Christmas (в отличие от + genitive)."},
+        {"ru": "По сравнению с Германией в России огромные расстояния.", "en": "Compared with Germany, distances in Russia are huge (по сравнению с + instrumental)."},
+        {"ru": "Это сильно отличается от того, к чему я привык.", "en": "This is very different from what I'm used to."},
+        {"ru": "У нас принято приходить вовремя.", "en": "Where I'm from, it's customary to arrive on time."},
+        {"ru": "Не стоит обобщать.", "en": "One shouldn't generalise."},
+        {"ru": "Мне кажется, это скорее стереотип.", "en": "I think that's more of a stereotype."},
+        {"ru": "Меня приятно удивило гостеприимство.", "en": "I was pleasantly surprised by the hospitality."}
+      ],
+      "focus": ["case:gen", "case:inst", "syn:conj"]
+    }
+  ]
+}

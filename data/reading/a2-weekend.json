@@ -1,0 +1,94 @@
+{
+  "id": "a2-weekend",
+  "title": "Выходные без телефона",
+  "title_en": "A weekend without a phone",
+  "level": "A2",
+  "topic": "daily life",
+  "paragraphs": [
+    "В пятницу вечером я забыла телефон на работе. Я поняла это только дома, когда хотела позвонить маме. Офис был уже закрыт. «Ничего страшного, — подумала я. — Два дня можно жить без телефона».",
+    "В субботу я проснулась поздно, потому что мой будильник — это телефон. Я не знала, какая сегодня погода, и просто посмотрела в окно. Светило солнце. После завтрака я пошла на рынок. Обычно я заказываю продукты в интернете, но в этот раз выбирала овощи и фрукты сама. Продавщица дала мне попробовать мёд, и я купила целую банку.",
+    "Днём я хотела увидеть подругу Олю, но не могла ей написать. Тогда я просто пошла к ней домой без звонка. Оля очень удивилась, но была рада. Мы долго гуляли в парке и разговаривали обо всём. В воскресенье я весь день была дома: готовила, читала и даже написала письмо бабушке. Настоящее письмо, на бумаге!",
+    "В понедельник на работе я нашла в телефоне тридцать сообщений и десять пропущенных звонков. Почти все были не очень важные. Теперь по субботам я иногда специально оставляю телефон дома."
+  ],
+  "glossary": {
+    "забыла": {"en": "forgot, left behind", "note": "past fem. of забыть (pf.)"},
+    "поняла": {"en": "realised", "note": "past fem. of понять (pf.)"},
+    "закрыт": {"en": "closed", "note": "short form of закрытый"},
+    "страшного": {"en": "terrible", "note": "gen. of страшный; ничего страшного = no big deal, never mind"},
+    "проснулась": {"en": "woke up", "note": "past fem. of проснуться (pf.)"},
+    "будильник": {"en": "alarm clock"},
+    "светило": {"en": "was shining", "note": "past neut. of светить; светило солнце = the sun was shining"},
+    "завтрака": {"en": "breakfast", "note": "gen. of завтрак; после + gen. = after"},
+    "заказываю": {"en": "I order", "note": "заказывать (impf.)"},
+    "продукты": {"en": "groceries, food", "note": "pl. of продукт; in everyday speech продукты = food you buy"},
+    "раз": {"en": "time, occasion", "note": "в этот раз = this time"},
+    "выбирала": {"en": "chose, picked out", "note": "past fem. of выбирать (impf.)"},
+    "продавщица": {"en": "saleswoman, stallholder", "note": "fem. of продавец"},
+    "попробовать": {"en": "to taste, to try", "note": "pf. of пробовать"},
+    "мёд": {"en": "honey"},
+    "целую": {"en": "whole", "note": "acc. fem. of целый"},
+    "банку": {"en": "jar", "note": "acc. of банка"},
+    "звонка": {"en": "phone call", "note": "gen. of звонок; без звонка = without calling first"},
+    "удивилась": {"en": "was surprised", "note": "past fem. of удивиться (pf.)"},
+    "рада": {"en": "glad", "note": "fem. of рад"},
+    "обо": {"en": "about", "note": "о becomes обо before всём: обо всём = about everything"},
+    "даже": {"en": "even"},
+    "бабушке": {"en": "to (my) grandmother", "note": "dat. of бабушка"},
+    "настоящее": {"en": "real", "note": "neut. of настоящий"},
+    "бумаге": {"en": "paper", "note": "prep. of бумага; на бумаге = on paper"},
+    "сообщений": {"en": "messages", "note": "gen. pl. of сообщение (after тридцать)"},
+    "пропущенных": {"en": "missed", "note": "gen. pl. of пропущенный; пропущенный звонок = missed call"},
+    "звонков": {"en": "calls", "note": "gen. pl. of звонок (after десять)"},
+    "субботам": {"en": "Saturdays", "note": "dat. pl. of суббота; по субботам = on Saturdays"},
+    "специально": {"en": "on purpose, deliberately"},
+    "оставляю": {"en": "I leave (behind)", "note": "оставлять (impf.): a repeated action"}
+  },
+  "questions": [
+    {
+      "type": "mcq",
+      "prompt": "Why did she spend the weekend without her phone?",
+      "options": ["Her phone was broken.", "She left it at work on Friday.", "She lost it at the market.", "She wanted a break from it."],
+      "answer": 1,
+      "explain": "«В пятницу вечером я забыла телефон на работе» = On Friday evening I left my phone at work."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why did she wake up late on Saturday?",
+      "options": ["She went to bed very late.", "She felt ill.", "It was raining.", "Her phone is her alarm clock."],
+      "answer": 3,
+      "explain": "«…потому что мой будильник — это телефон» = because my alarm clock is my phone."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What did she buy at the market?",
+      "options": ["Bread and cheese", "A newspaper", "A jar of honey", "Flowers for Olya"],
+      "answer": 2,
+      "explain": "«Продавщица дала мне попробовать мёд, и я купила целую банку» = she tasted the honey and bought a whole jar."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How did she get to see her friend Olya?",
+      "options": ["She went to Olya's flat without calling first.", "She called her from a neighbour's phone.", "She met her by chance in the park.", "Olya came to see her."],
+      "answer": 0,
+      "explain": "«Тогда я просто пошла к ней домой без звонка» = So I simply went to her place without calling."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What did she find on her phone on Monday?",
+      "options": ["Many important messages from work", "No messages at all", "Lots of messages and missed calls, but almost nothing important", "A letter from her grandmother"],
+      "answer": 2,
+      "explain": "«…тридцать сообщений и десять пропущенных звонков. Почти все были не очень важные» = thirty messages and ten missed calls, almost all of them not very important."
+    },
+    {
+      "type": "translate",
+      "prompt": "I sometimes leave my phone at home on purpose.",
+      "answer": ["Я иногда специально оставляю телефон дома.", "Иногда я специально оставляю телефон дома.", "Я иногда специально оставляю свой телефон дома."],
+      "explain": "Imperfective оставлять for a repeated action (оставляю); специально = on purpose; дома = at home (no movement)."
+    },
+    {
+      "type": "open",
+      "prompt": "А вы? Могли бы вы провести выходные без телефона? Почему? Напишите 4–5 предложений.",
+      "en": "What about you? Could you spend a weekend without your phone? Why or why not? Write 4–5 sentences."
+    }
+  ]
+}

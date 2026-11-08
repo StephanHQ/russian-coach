@@ -93,7 +93,7 @@ tools/build.py           validates everything and writes data/index.json
 
 ### Tags (closed list; build fails on anything else)
 
-`case:nom` `case:acc` `case:gen` `case:dat` `case:inst` `case:prep` `case:plural` `adj` `pron` `poss` `num` `verb:conj` `verb:past` `verb:future` `verb:aspect` `verb:motion` `verb:reflexive` `verb:imperative` `modal` `syn:impersonal` `syn:conditional` `syn:relative` `syn:conj` `vocab` `phrase`
+`case:nom` `case:acc` `case:gen` `case:dat` `case:inst` `case:prep` `case:plural` `adj` `pron` `poss` `num` `verb:conj` `verb:past` `verb:future` `verb:aspect` `verb:motion` `verb:reflexive` `verb:imperative` `verb:participle` (participles and gerunds) `modal` `syn:impersonal` `syn:conditional` `syn:relative` `syn:conj` `vocab` `phrase`
 
 Content levels: `A1` `A2` `B1` `B2` `C1`.
 
@@ -158,7 +158,7 @@ test: prepositional-1
 
 - `feedback`: `each` (explanation after every question) or `end` (results only at the end; used for placement).
 - `fill`: the prompt has exactly one `___`. `answer` lists every acceptable form for the blank (not the whole sentence). `base` (optional) is shown as the word to transform. Every fill item must have one unambiguous answer, or list all correct ones.
-- `mcq`: `answer` is the 0-based index of the one correct option.
+- `mcq`: `answer` is the 0-based index of the one correct option. The app shuffles test options. An optional English `hint` can remove ambiguity (e.g. "her own brother").
 - `translate`: `answer` lists model translations. The app accepts exact matches automatically; otherwise Stephan self-marks it and it goes into the report for Claude to grade.
 - `sheet` (optional) links to a grammar sheet id.
 

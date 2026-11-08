@@ -1,0 +1,26 @@
+{
+  "id": "cases-mixed-1",
+  "title": "All six cases: mixed practice",
+  "level": "A1–B2",
+  "tags": ["case:nom", "case:gen", "case:dat", "case:acc", "case:inst", "case:prep", "case:plural"],
+  "sheet": "cases",
+  "feedback": "each",
+  "questions": [
+    {"type": "fill", "prompt": "У нас дома нет ___.", "base": "хлеб", "hint": "We have no bread at home.", "answer": ["хлеба"], "tag": "case:gen", "level": "A1", "explain": "нет + genitive: a noun ending in a consonant adds -а."},
+    {"type": "fill", "prompt": "Я позвоню ___ вечером.", "base": "ты", "hint": "I'll call you in the evening.", "answer": ["тебе"], "tag": "case:dat", "level": "A1", "explain": "звонить + dative: ты → тебе."},
+    {"type": "fill", "prompt": "Сегодня вечером мы идём в ___.", "base": "библиотека", "hint": "Tonight we're going to the library.", "answer": ["библиотеку"], "tag": "case:acc", "level": "A1", "explain": "Direction (куда?) → в + accusative: -а → -у."},
+    {"type": "fill", "prompt": "Она пришла на вечеринку с ___.", "base": "подруга", "hint": "She came to the party with a friend.", "answer": ["подругой"], "tag": "case:inst", "level": "A1", "explain": "с (with) + instrumental: -а → -ой."},
+    {"type": "mcq", "prompt": "Мне очень нравится ___.", "options": ["эта книга", "эту книгу", "этой книги", "этой книге"], "answer": 0, "tag": "case:nom", "level": "A2", "explain": "With нравиться the thing liked is the subject, so it stays in the nominative."},
+    {"type": "fill", "prompt": "Мой дедушка долго жил в ___.", "base": "Сибирь", "hint": "My grandfather lived in Siberia for a long time.", "answer": ["Сибири"], "tag": "case:prep", "level": "A2", "explain": "в + prepositional; feminine noun in -ь → -и."},
+    {"type": "fill", "prompt": "Я часто вижу ___ в парке.", "base": "наш сосед", "hint": "I often see our neighbour in the park.", "answer": ["нашего соседа"], "tag": "case:acc", "level": "A2", "explain": "A living masculine object: accusative = genitive (нашего соседа)."},
+    {"type": "fill", "prompt": "Вчера мы говорили о ___.", "base": "новый проект", "hint": "Yesterday we talked about the new project.", "answer": ["новом проекте"], "tag": "case:prep", "level": "A2", "explain": "о + prepositional: masculine adjective -ом, noun -е."},
+    {"type": "mcq", "prompt": "Мы с ___ идём в кино.", "options": ["брат", "брата", "брату", "братом"], "answer": 3, "tag": "case:inst", "level": "A2", "explain": "мы с + instrumental = 'my brother and I': мы с братом."},
+    {"type": "fill", "prompt": "Её брат работает ___.", "base": "водитель", "hint": "Her brother works as a driver.", "answer": ["водителем"], "tag": "case:inst", "level": "A2", "explain": "работать + instrumental for a job; masculine -ь → -ем."},
+    {"type": "fill", "prompt": "В нашей группе пять ___.", "base": "девушка", "hint": "There are five girls in our group.", "answer": ["девушек"], "tag": "case:plural", "level": "B1", "explain": "5+ → genitive plural. девушка has no ending there and gains an е: девушек."},
+    {"type": "fill", "prompt": "Я написал письмо ___.", "base": "мои родители", "hint": "I wrote a letter to my parents.", "answer": ["моим родителям", "своим родителям"], "tag": "case:dat", "level": "B1", "explain": "To someone → dative; plural -им / -ям (своим is also correct)."},
+    {"type": "mcq", "prompt": "Положи, пожалуйста, ключи ___.", "options": ["на стол", "на столе", "на стола", "на столу"], "answer": 0, "tag": "case:acc", "level": "B1", "explain": "положить answers куда? → на + accusative (на столе answers где?)."},
+    {"type": "mcq", "prompt": "В этом году ___ исполнилось сорок лет.", "options": ["наш отец", "нашего отца", "нашему отцу", "нашим отцом"], "answer": 2, "tag": "case:dat", "level": "B2", "explain": "исполниться (to turn an age) + dative, like мне сорок лет."},
+    {"type": "translate", "prompt": "My parents live in a small town.", "answer": ["Мои родители живут в маленьком городе.", "Мои родители живут в небольшом городе.", "Родители живут в маленьком городе."], "tag": "case:prep", "level": "A2", "explain": "в + prepositional: masculine adjective -ом, noun -е."},
+    {"type": "translate", "prompt": "I don't have a brother, but I have two sisters.", "answer": ["У меня нет брата, но есть две сестры.", "У меня нет брата, но у меня есть две сестры.", "У меня нет брата, зато есть две сестры."], "tag": "case:gen", "level": "B1", "explain": "нет + genitive (брата); две + genitive singular (сестры)."}
+  ]
+}
