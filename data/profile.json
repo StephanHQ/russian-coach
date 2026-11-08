@@ -1,46 +1,201 @@
 {
   "learner": "Stephan",
   "instruction_language": "English",
-  "known_languages": ["German", "English"],
-  "self_report": "Understands a lot of Russian and knows many words passively. Struggles with grammar (endings, cases) and with expressing himself in speaking and writing.",
+  "known_languages": [
+    "German",
+    "English"
+  ],
+  "self_report": "Understands a lot of Russian and knows many words passively, learned mostly by ear. Has rarely written Russian and spells words the way he pronounces them. Struggles with grammar (endings, cases) and with expressing himself in speaking and writing.",
   "goals": [
     "Speak and write Russian accurately and with confidence",
     "Control case endings and verb aspect in real sentences",
     "Close the gap between what he understands and what he can say"
   ],
   "assessed": false,
-  "overall": {"cefr": null, "torfl": null, "confidence": "none", "note": "Placement in progress: grammar test done (2026-11-08). Writing, speaking and reading samples still to come before levels are set."},
+  "overall": {
+    "cefr": null,
+    "torfl": null,
+    "confidence": "none",
+    "note": "Placement in progress: grammar test done (2026-11-08). Writing, speaking and reading samples still to come before levels are set."
+  },
   "levels": {
-    "reading":    {"cefr": null, "confidence": "none", "trend": null, "evidence": "", "updated": null},
-    "listening":  {"cefr": null, "confidence": "none", "trend": null, "evidence": "", "updated": null},
-    "writing":    {"cefr": null, "confidence": "low", "trend": null, "evidence": "Only the 4 placement translations so far (40 words): meaning clear in 3 of 4, about 60 errors per 100 words, roughly half of them spelling (writes by ear). Needs a real writing sample.", "updated": "2026-11-08"},
-    "speaking":   {"cefr": null, "confidence": "none", "trend": null, "evidence": "", "updated": null},
-    "grammar":    {"cefr": null, "confidence": "low", "trend": null, "evidence": "Placement 2026-11-08, raw: A1 6/11 (55%), A2 4/11 (36%), B1 2/11 (18%), B2 1/11. Counting 5 spelling-only errors as grammar-correct: A1 8/11 (73%), A2 4/11, B1 5/11 (45%). Below the 75% bar even at A1, so no level recorded yet. Patchy profile: some B1 structures known (чтобы + past, prefixed motion verbs, -ами), basic singular endings and agreement not yet reliable.", "updated": "2026-11-08"},
-    "vocabulary": {"cefr": null, "confidence": "none", "trend": null, "evidence": "Active everyday vocabulary looks solid in the translations (сестра, работать, кино, друг, фильм, помощь, найти работу); not measured yet.", "updated": "2026-11-08"}
+    "reading": {
+      "cefr": null,
+      "confidence": "none",
+      "trend": null,
+      "evidence": "",
+      "updated": null
+    },
+    "listening": {
+      "cefr": null,
+      "confidence": "none",
+      "trend": null,
+      "evidence": "",
+      "updated": null
+    },
+    "writing": {
+      "cefr": null,
+      "confidence": "low",
+      "trend": null,
+      "evidence": "Only the 4 placement translations so far (40 words): meaning clear in 3 of 4, about 60 errors per 100 words, roughly half of them spelling (writes by ear). Needs a real writing sample.",
+      "updated": "2026-11-08"
+    },
+    "speaking": {
+      "cefr": null,
+      "confidence": "none",
+      "trend": null,
+      "evidence": "",
+      "updated": null
+    },
+    "grammar": {
+      "cefr": null,
+      "confidence": "low",
+      "trend": null,
+      "evidence": "Placement 2026-11-08, raw: A1 6/11 (55%), A2 4/11 (36%), B1 2/11 (18%), B2 1/11. Counting 5 spelling-only errors as grammar-correct: A1 8/11 (73%), A2 4/11, B1 5/11 (45%). Below the 75% bar even at A1, so no level recorded yet. Patchy profile: some B1 structures known (чтобы + past, prefixed motion verbs, -ами), basic singular endings and agreement not yet reliable.",
+      "updated": "2026-11-08"
+    },
+    "vocabulary": {
+      "cefr": null,
+      "confidence": "none",
+      "trend": null,
+      "evidence": "Active everyday vocabulary looks solid in the translations (сестра, работать, кино, друг, фильм, помощь, найти работу); not measured yet.",
+      "updated": "2026-11-08"
+    }
   },
   "weak_points": [
-    {"id": "spelling-by-ear", "tag": "spelling", "label": "Writes by ear: unstressed о→а, е→и, ё→о, missing ь (-шь, фильм), ы/и, не + verb joined", "severity": "high", "examples": ["*другам → другом", "*пашол → пошёл", "*невидел → не видел", "*прийдёш → придёшь"], "since": "2026-11-08", "status": "active"},
-    {"id": "gen-endings", "tag": "case:gen", "label": "Genitive after нет / много, and for people in the plural", "severity": "high", "examples": ["*нет молоко → нет молока", "*много музее → много музеев", "*встретил друзия → встретил друзей"], "since": "2026-11-08", "status": "active"},
-    {"id": "dat-endings", "tag": "case:dat", "label": "Dative: кому? (писать, звонить, помогать) and after благодаря", "severity": "high", "examples": ["*пишу сестрой → пишу сестре", "*которая я помог → которой я помог"], "since": "2026-11-08", "status": "active"},
-    {"id": "agreement", "tag": "verb:past", "label": "Agreement with the subject: past tense gender, мне понравился / понравилась", "severity": "medium", "examples": ["*Анна был → Анна была", "*мне нравилось фильм → мне понравился фильм"], "since": "2026-11-08", "status": "active"},
-    {"id": "inst-prep", "tag": "case:inst", "label": "Instrumental after с; prepositional of -ия nouns and city names", "severity": "medium", "examples": ["*с лимону → с лимоном", "*в Россие → в России", "*в гамбург → в Гамбурге"], "since": "2026-11-08", "status": "active"},
-    {"id": "aspect-basic", "tag": "verb:aspect", "label": "Aspect: process vs one result (past), когда + perfective future", "severity": "medium", "examples": ["*весь вечер прочитал → весь вечер читал", "*когда закончивает → когда закончу"], "since": "2026-11-08", "status": "active"}
+    {
+      "id": "spelling-by-ear",
+      "tag": "spelling",
+      "label": "Writes by ear: unstressed о→а, е→и, ё→о, missing ь (-шь, фильм), ы/и, не + verb joined",
+      "severity": "high",
+      "examples": [
+        "*другам → другом",
+        "*пашол → пошёл",
+        "*невидел → не видел",
+        "*прийдёш → придёшь"
+      ],
+      "since": "2026-11-08",
+      "status": "active"
+    },
+    {
+      "id": "gen-endings",
+      "tag": "case:gen",
+      "label": "Genitive after нет / много, and for people in the plural",
+      "severity": "high",
+      "examples": [
+        "*нет молоко → нет молока",
+        "*много музее → много музеев",
+        "*встретил друзия → встретил друзей"
+      ],
+      "since": "2026-11-08",
+      "status": "active"
+    },
+    {
+      "id": "dat-endings",
+      "tag": "case:dat",
+      "label": "Dative: кому? (писать, звонить, помогать) and after благодаря",
+      "severity": "high",
+      "examples": [
+        "*пишу сестрой → пишу сестре",
+        "*которая я помог → которой я помог"
+      ],
+      "since": "2026-11-08",
+      "status": "active"
+    },
+    {
+      "id": "agreement",
+      "tag": "verb:past",
+      "label": "Agreement with the subject: past tense gender, мне понравился / понравилась",
+      "severity": "medium",
+      "examples": [
+        "*Анна был → Анна была",
+        "*мне нравилось фильм → мне понравился фильм"
+      ],
+      "since": "2026-11-08",
+      "status": "active"
+    },
+    {
+      "id": "inst-prep",
+      "tag": "case:inst",
+      "label": "Instrumental after с; prepositional of -ия nouns and city names",
+      "severity": "medium",
+      "examples": [
+        "*с лимону → с лимоном",
+        "*в Россие → в России",
+        "*в гамбург → в Гамбурге"
+      ],
+      "since": "2026-11-08",
+      "status": "active"
+    },
+    {
+      "id": "aspect-basic",
+      "tag": "verb:aspect",
+      "label": "Aspect: process vs one result (past), когда + perfective future",
+      "severity": "medium",
+      "examples": [
+        "*весь вечер прочитал → весь вечер читал",
+        "*когда закончивает → когда закончу"
+      ],
+      "since": "2026-11-08",
+      "status": "active"
+    }
   ],
   "strengths": [
     "Understands a lot and has a useful active vocabulary for everyday topics",
     "Already uses key patterns: мне нравится, у неё (есть), с + instrumental, чтобы + past",
     "Attempts complex sentences (который, если) instead of avoiding them"
   ],
-  "focus": ["spelling", "case:gen", "case:dat"],
+  "focus": [
+    "spelling",
+    "case:gen",
+    "case:dat"
+  ],
   "plan": {
     "next_session": "Placement, part 2: a short writing sample in chat (w-a2-01 'Last weekend', 60–80 words, no translator), then a 5–10 minute speaking sample in voice mode, and the A2 reading 'Выходные без телефона' in the app. Then set first levels. First lessons after that: the Spelling sheet and test, genitive after нет / много, dative (кому?).",
     "milestones": [
-      {"goal": "Spelling test (spelling-1) at 80% or more", "target_date": "2026-11-22", "done": false},
-      {"goal": "Retake the placement test: A1 items at 85%+ and A2 items at 75%+", "target_date": "2026-12-20", "done": false}
+      {
+        "goal": "Spelling test (spelling-1) at 80% or more",
+        "target_date": "2026-11-22",
+        "done": false
+      },
+      {
+        "goal": "Retake the placement test: A1 items at 85%+ and A2 items at 75%+",
+        "target_date": "2026-12-20",
+        "done": false
+      }
     ]
   },
   "history": [
-    {"date": "2026-11-08", "type": "setup", "summary": "Russian Coach set up: app, starter deck, grammar sheets, tests and readings. No assessment yet.", "evidence": {}, "level_changes": []},
-    {"date": "2026-11-08", "type": "placement", "summary": "Placement part 1 (grammar test): 13/44 objective (30%); A1 6/11, A2 4/11, B1 2/11, B2 1/11. Five errors were spelling-only, so the adjusted scores are A1 73%, B1 45%. Translations: meaning clear in 3 of 4, about 60 errors per 100 words, half of them spelling.", "evidence": {"placement_raw": {"A1": "6/11", "A2": "4/11", "B1": "2/11", "B2": "1/11", "total": "13/44"}, "placement_spelling_adjusted": {"A1": "8/11", "A2": "4/11", "B1": "5/11", "B2": "1/11", "total": "18/44"}, "translation_errors_per_100_words": 60, "spelling_share_of_errors": "about 50%"}, "level_changes": []}
+    {
+      "date": "2026-11-08",
+      "type": "setup",
+      "summary": "Russian Coach set up: app, starter deck, grammar sheets, tests and readings. No assessment yet.",
+      "evidence": {},
+      "level_changes": []
+    },
+    {
+      "date": "2026-11-08",
+      "type": "placement",
+      "summary": "Placement part 1 (grammar test): 13/44 objective (30%); A1 6/11, A2 4/11, B1 2/11, B2 1/11. Five errors were spelling-only, so the adjusted scores are A1 73%, B1 45%. Translations: meaning clear in 3 of 4, about 60 errors per 100 words, half of them spelling.",
+      "evidence": {
+        "placement_raw": {
+          "A1": "6/11",
+          "A2": "4/11",
+          "B1": "2/11",
+          "B2": "1/11",
+          "total": "13/44"
+        },
+        "placement_spelling_adjusted": {
+          "A1": "8/11",
+          "A2": "4/11",
+          "B1": "5/11",
+          "B2": "1/11",
+          "total": "18/44"
+        },
+        "translation_errors_per_100_words": 60,
+        "spelling_share_of_errors": "about 50%"
+      },
+      "level_changes": []
+    }
   ]
 }
