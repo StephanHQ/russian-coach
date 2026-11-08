@@ -1,0 +1,31 @@
+{
+  "learner": "Stephan",
+  "instruction_language": "English",
+  "known_languages": ["German", "English"],
+  "self_report": "Understands a lot of Russian and knows many words passively. Struggles with grammar (endings, cases) and with expressing himself in speaking and writing.",
+  "goals": [
+    "Speak and write Russian accurately and with confidence",
+    "Control case endings and verb aspect in real sentences",
+    "Close the gap between what he understands and what he can say"
+  ],
+  "assessed": false,
+  "overall": {"cefr": null, "torfl": null, "confidence": "none", "note": "Not assessed yet. Start with the placement test."},
+  "levels": {
+    "reading":    {"cefr": null, "confidence": "none", "trend": null, "evidence": "", "updated": null},
+    "listening":  {"cefr": null, "confidence": "none", "trend": null, "evidence": "", "updated": null},
+    "writing":    {"cefr": null, "confidence": "none", "trend": null, "evidence": "", "updated": null},
+    "speaking":   {"cefr": null, "confidence": "none", "trend": null, "evidence": "", "updated": null},
+    "grammar":    {"cefr": null, "confidence": "none", "trend": null, "evidence": "", "updated": null},
+    "vocabulary": {"cefr": null, "confidence": "none", "trend": null, "evidence": "", "updated": null}
+  },
+  "weak_points": [],
+  "strengths": [],
+  "focus": [],
+  "plan": {
+    "next_session": "Placement: take the placement test in the app (Grammar tab), then one reading, then copy the report to Claude for a writing and speaking sample.",
+    "milestones": []
+  },
+  "history": [
+    {"date": "2026-11-08", "type": "setup", "summary": "Russian Coach set up: app, starter deck, grammar sheets, tests and readings. No assessment yet.", "evidence": {}, "level_changes": []}
+  ]
+}
