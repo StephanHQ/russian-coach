@@ -109,6 +109,17 @@
    ]
   },
   {
+   "id": "spelling",
+   "title": "Spelling: from sound to letters (орфография)",
+   "level": "A1–B1",
+   "tags": [
+    "spelling"
+   ],
+   "tests": [
+    "spelling-1"
+   ]
+  },
+  {
    "id": "verbs",
    "title": "Verbs (глаголы) — present, past, future, -ся, imperative",
    "level": "A1–B1",
@@ -275,6 +286,18 @@
    "placement": false
   },
   {
+   "id": "spelling-1",
+   "title": "Spelling: write what's meant, not what you hear",
+   "level": "A1–A2",
+   "tags": [
+    "spelling"
+   ],
+   "sheet": "spelling",
+   "feedback": "each",
+   "count": 16,
+   "placement": false
+  },
+  {
    "id": "verbs-1",
    "title": "Verbs: present, past, future, -ся, imperative",
    "level": "A1–B1",
@@ -347,9 +370,9 @@
    "questions": 7
   }
  ],
- "version": "ac3164e6ef",
- "built": "2026-11-08T22:04:51Z",
- "deck": 100,
+ "version": "8d6a116cd4",
+ "built": "2026-11-08T23:01:37Z",
+ "deck": 119,
  "writing": 12,
  "speaking": 12,
  "tags": [
@@ -366,6 +389,7 @@
   "phrase",
   "poss",
   "pron",
+  "spelling",
   "syn:conditional",
   "syn:conj",
   "syn:impersonal",

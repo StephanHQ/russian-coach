@@ -1,0 +1,26 @@
+{
+  "id": "spelling-1",
+  "title": "Spelling: write what's meant, not what you hear",
+  "level": "A1–A2",
+  "tags": ["spelling"],
+  "sheet": "spelling",
+  "feedback": "each",
+  "questions": [
+    {"type": "mcq", "prompt": "Я говорю с ___.", "options": ["другам", "другом", "другым", "друком"], "answer": 1, "hint": "I'm talking with a friend.", "tag": "spelling", "level": "A1", "explain": "Instrumental after с: -ом. You hear [а], you write о."},
+    {"type": "fill", "prompt": "Ты ___ по-русски?", "base": "говорить", "hint": "Do you speak Russian?", "answer": ["говоришь"], "tag": "spelling", "level": "A1", "explain": "The ты-form always ends in -шь, with ь."},
+    {"type": "fill", "prompt": "Моя подруга ___ в Вене.", "base": "жить", "hint": "My friend lives in Vienna.", "answer": ["живёт"], "tag": "spelling", "level": "A1", "explain": "живёт is written with ё (живот means belly)."},
+    {"type": "fill", "prompt": "Мы ___ этот фильм.", "base": "не видеть", "hint": "We haven't seen this film.", "answer": ["не видели"], "tag": "spelling", "level": "A1", "explain": "не is written separately from verbs: не видели."},
+    {"type": "mcq", "prompt": "Какой ___ ты смотрел вчера?", "options": ["филм", "фильм", "фелм", "фильмь"], "answer": 1, "hint": "Which film did you watch yesterday?", "tag": "spelling", "level": "A1", "explain": "фильм has a soft sign after л."},
+    {"type": "mcq", "prompt": "Мне нужно ___.", "options": ["учится", "учиться", "учитса", "учица"], "answer": 1, "hint": "I need to study.", "tag": "spelling", "level": "A2", "explain": "Что делать? → the infinitive, written -ться with ь."},
+    {"type": "fill", "prompt": "Он не ___ прийти.", "base": "мочь", "hint": "He couldn't come.", "answer": ["мог"], "tag": "spelling", "level": "A2", "explain": "The infinitive мочь has ь, the past tense мог doesn't."},
+    {"type": "mcq", "prompt": "___ я был дома.", "options": ["Вцера", "Вчера", "Фчера", "Вчира"], "answer": 1, "hint": "Yesterday I was at home.", "tag": "spelling", "level": "A1", "explain": "вчера: you hear [фчира], you write в + ч + е."},
+    {"type": "fill", "prompt": "У ___ есть машина.", "base": "она", "hint": "She has a car.", "answer": ["неё"], "tag": "pron", "level": "A1", "explain": "After a preposition она becomes неё, and у неё is two words."},
+    {"type": "mcq", "prompt": "Моя ___ живёт в Москве.", "options": ["систра", "сестра", "сестро", "састра"], "answer": 1, "hint": "My sister lives in Moscow.", "tag": "spelling", "level": "A1", "explain": "Unstressed е sounds like и. Check with a stressed form: сёстры."},
+    {"type": "fill", "prompt": "Он ___ рано.", "base": "просыпаться", "hint": "He wakes up early.", "answer": ["просыпается"], "tag": "spelling", "level": "A2", "explain": "Что делает? → -тся, no ь."},
+    {"type": "mcq", "prompt": "Это ___ хорошая идея.", "options": ["очинь", "очень", "ачень", "очен"], "answer": 1, "hint": "That's a very good idea.", "tag": "spelling", "level": "A1", "explain": "очень: stressed о at the start, е in the middle, ь at the end."},
+    {"type": "fill", "prompt": "Я ___ домой, когда начался дождь.", "base": "идти", "hint": "I was walking home when it started to rain. (I = male)", "answer": ["шёл"], "tag": "spelling", "level": "A2", "explain": "шёл: ё after ш, even though it sounds like [шол]."},
+    {"type": "mcq", "prompt": "Это стоит ___ евро.", "options": ["десеть", "десить", "десять", "дисять"], "answer": 2, "hint": "That costs ten euros.", "tag": "spelling", "level": "A1", "explain": "десять: check with деся́тый, where the я is stressed."},
+    {"type": "fill", "prompt": "Я часто обедаю с ___.", "base": "коллеги", "hint": "I often have lunch with colleagues.", "answer": ["коллегами"], "tag": "spelling", "level": "A2", "explain": "The instrumental plural is -ами, never -амы."},
+    {"type": "translate", "prompt": "I don't know where he lives.", "answer": ["Я не знаю, где он живёт.", "Не знаю, где он живёт."], "tag": "spelling", "level": "A2", "explain": "не знаю is two words; живёт is written with ё."}
+  ]
+}

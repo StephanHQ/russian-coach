@@ -19,7 +19,7 @@ TAGS = {
     "adj", "pron", "poss", "num",
     "verb:conj", "verb:past", "verb:future", "verb:aspect", "verb:motion", "verb:reflexive", "verb:imperative", "verb:participle",
     "modal", "syn:impersonal", "syn:conditional", "syn:relative", "syn:conj",
-    "vocab", "phrase",
+    "vocab", "phrase", "spelling",
 }
 LEVELS = {"A1", "A2", "B1", "B2", "C1"}
 MODES = {"cloze", "produce", "recognize"}

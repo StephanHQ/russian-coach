@@ -235,7 +235,7 @@ const TAG_LABELS = {
   'verb:conj': 'Conjugation', 'verb:past': 'Past tense', 'verb:future': 'Future tense', 'verb:aspect': 'Aspect',
   'verb:motion': 'Verbs of motion', 'verb:reflexive': '-ся verbs', 'verb:imperative': 'Imperative', 'verb:participle': 'Participles & gerunds',
   modal: 'Modals (надо, можно…)', 'syn:impersonal': 'Impersonal (мне нравится…)', 'syn:conditional': 'Conditional (бы)',
-  'syn:relative': 'который clauses', 'syn:conj': 'Conjunctions', vocab: 'Vocabulary', phrase: 'Phrases',
+  'syn:relative': 'который clauses', 'syn:conj': 'Conjunctions', vocab: 'Vocabulary', phrase: 'Phrases', spelling: 'Spelling',
 };
 const tagLabel = t => TAG_LABELS[t] || t;
 function sheetForTag(tag) {
@@ -372,7 +372,7 @@ function viewHome() {
   const q = buildQueue();
   const assessed = p.assessed && p.overall && p.overall.cefr;
   const placement = LS.get('tests', []).filter(r => r.id === 'placement').pop();
-  const placementSent = placement && LS.get('lastReport', 0) > placement.ts;
+  const placementSent = placement && (placement.sent || LS.get('lastReport', 0) > placement.ts);
   const skills = ['reading', 'listening', 'writing', 'speaking', 'grammar', 'vocabulary'];
   const rows = skills
     .map(k => {
@@ -992,7 +992,7 @@ function renderResult(r, t) {
     <section class="card">
       <div class="eyebrow">${esc(t.title)} · results</div>
       <div class="row between"><div class="score">${pct(r.correct, r.total)}%</div><div class="muted">${r.correct} / ${r.total}${r.pending ? `<br><span class="small">+${r.pending} for Claude</span>` : ''}</div></div>
-      ${r.estimate ? `<div class="fb mid" style="margin-top:12px"><b class="head">Provisional grammar estimate: ${esc(r.estimate)}</b><div class="small">From this test only. Claude confirms your levels with a writing and speaking sample and the translation items.</div></div>` : ''}
+      ${r.estimate ? `<div class="fb mid" style="margin-top:12px"><b class="head">Provisional grammar estimate: ${esc(r.estimate)}</b><div class="small">From this test only, and typed answers must be spelled exactly. Claude separates spelling slips from grammar errors and confirms your levels with a writing and speaking sample.</div></div>` : ''}
       ${levels.length > 1 ? `<div class="eyebrow" style="margin-top:14px">By level</div><div class="bars">${levels.map(l => bar(l, r.byLevel[l].ok, r.byLevel[l].n)).join('')}</div>` : ''}
       ${tags.length > 1 ? `<div class="eyebrow" style="margin-top:14px">By topic (weakest first)</div><div class="bars">${tags.slice(0, 10).map(([tg, s]) => bar(tagLabel(tg), s.ok, s.n)).join('')}</div>` : ''}
       <div class="row gap" style="margin-top:14px">
@@ -1004,7 +1004,12 @@ function renderResult(r, t) {
     <a class="btn block" href="#grammar">Back to grammar</a>`;
 }
 ACT['copy-test'] = el => {
-  const r = LS.get('tests', []).find(x => String(x.ts) === el.dataset.ts);
+  const all = LS.get('tests', []);
+  const r = all.find(x => String(x.ts) === el.dataset.ts);
+  if (r) {
+    r.sent = true;
+    LS.set('tests', all);
+  }
   if (r) copyText(`RUSSIAN COACH REPORT (single test)\n\n${testSection(r, true)}\n\nPlease grade the translations, analyse my mistakes, and update my profile.`);
 };
 

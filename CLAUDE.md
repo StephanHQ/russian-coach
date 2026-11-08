@@ -46,6 +46,7 @@ Learner starting point (self-report): understands a lot of Russian and knows man
   2. Per error: `wrong → right`, the rule in one line, and its tag (e.g. `case:prep`).
   3. Separate real errors from "more natural would be…". At A1–B1, don't flood him with style notes.
 - **Errors become cards.** Every recurring or important error becomes a `cloze` or `produce` card built from his own sentence (corrected).
+- **Keep the placement test fair.** Never copy placement items (or their translation sentences) into cards or other tests; build a new sentence for the same pattern, so a retake measures progress rather than memory.
 - **Stress marks.** When introducing a new word, mark stress with U+0301 (молоко́) only when certain. The app strips stress marks for audio and for checking answers.
 - **No empty praise.** Be specific. "Good" must point at something concrete he did right.
 
@@ -64,6 +65,7 @@ Learner starting point (self-report): understands a lot of Russian and knows man
 - **Writing:** a text of that level's task type. A2 = simple connected sentences about familiar things. B1 = connected text on familiar topics; describes experiences and gives reasons. B2 = clear, detailed text; argues a view; good control of cases and aspect, with errors rare and not causing misunderstanding. C1 = well-structured, flexible, precise. Record errors per 100 words and which structures he controls.
 - **Speaking:** voice-mode transcripts. Judge turn length, ability to keep the conversation going, range, and grammar control under time pressure. Pronunciation and accent can't be judged reliably from a transcript, so say so and cap confidence at "medium".
 - **Vocabulary:** unknown-word rate in reading plus range in production.
+- **Spelling vs grammar:** the app checks typed answers letter by letter. When judging grammar from app results, count answers with the right grammar but wrong spelling (e.g. *тыба for тебя) as spelling errors, report both raw and adjusted scores, and track spelling separately (tag `spelling`).
 
 **Rules:**
 - **Promotion needs two separate sessions of evidence.** One strong session gets recorded as `trend: "up"`, not as a new level.
@@ -93,7 +95,7 @@ tools/build.py           validates everything and writes data/index.json
 
 ### Tags (closed list; build fails on anything else)
 
-`case:nom` `case:acc` `case:gen` `case:dat` `case:inst` `case:prep` `case:plural` `adj` `pron` `poss` `num` `verb:conj` `verb:past` `verb:future` `verb:aspect` `verb:motion` `verb:reflexive` `verb:imperative` `verb:participle` (participles and gerunds) `modal` `syn:impersonal` `syn:conditional` `syn:relative` `syn:conj` `vocab` `phrase`
+`case:nom` `case:acc` `case:gen` `case:dat` `case:inst` `case:prep` `case:plural` `adj` `pron` `poss` `num` `verb:conj` `verb:past` `verb:future` `verb:aspect` `verb:motion` `verb:reflexive` `verb:imperative` `verb:participle` (participles and gerunds) `modal` `syn:impersonal` `syn:conditional` `syn:relative` `syn:conj` `vocab` `phrase` `spelling`
 
 Content levels: `A1` `A2` `B1` `B2` `C1`.
 
