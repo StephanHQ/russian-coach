@@ -182,7 +182,7 @@
   {
    "id": "genitive-1",
    "title": "Genitive case",
-   "level": "A1–B2",
+   "level": "A1–B1",
    "tags": [
     "case:gen",
     "num"
@@ -250,6 +250,7 @@
     "verb:aspect",
     "verb:motion",
     "verb:imperative",
+    "verb:participle",
     "modal",
     "syn:impersonal",
     "syn:conditional",
@@ -346,8 +347,8 @@
    "questions": 7
   }
  ],
- "version": "8c679a9df2",
- "built": "2026-11-08T21:38:39Z",
+ "version": "56b10d6da1",
+ "built": "2026-11-08T21:56:29Z",
  "deck": 100,
  "writing": 12,
  "speaking": 12,

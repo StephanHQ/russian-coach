@@ -21,6 +21,6 @@
     {"type": "fill", "prompt": "Благодаря ___ я нашёл работу.", "base": "твоя помощь", "hint": "Thanks to your help I found a job.", "answer": ["твоей помощи"], "tag": "case:dat", "level": "B2", "explain": "благодаря + dative; feminine noun in -ь → -и."},
     {"type": "mcq", "prompt": "Я очень благодарен ___.", "options": ["вы", "вас", "вам", "вами"], "answer": 2, "tag": "case:dat", "level": "B2", "explain": "благодарен + dative (but благодарить + accusative: благодарю вас)."},
     {"type": "translate", "prompt": "My sister is 25 years old.", "answer": ["Моей сестре двадцать пять лет.", "Моей сестре 25 лет.", "Сестре двадцать пять лет.", "Сестре 25 лет."], "tag": "case:dat", "level": "A2", "explain": "Age: the person in the dative + number + год / года / лет."},
-    {"type": "translate", "prompt": "We have to call grandma today.", "answer": ["Нам надо сегодня позвонить бабушке.", "Сегодня нам надо позвонить бабушке.", "Нам нужно сегодня позвонить бабушке.", "Сегодня нам нужно позвонить бабушке."], "tag": "case:dat", "level": "B1", "explain": "Two datives: надо + dative (нам), звонить + dative (бабушке)."}
+    {"type": "translate", "prompt": "We have to call grandma today.", "answer": ["Нам надо сегодня позвонить бабушке.", "Сегодня нам надо позвонить бабушке.", "Нам нужно сегодня позвонить бабушке.", "Сегодня нам нужно позвонить бабушке.", "Нам сегодня надо позвонить бабушке.", "Нам сегодня нужно позвонить бабушке."], "tag": "case:dat", "level": "B1", "explain": "Two datives: надо + dative (нам), звонить + dative (бабушке)."}
   ]
 }

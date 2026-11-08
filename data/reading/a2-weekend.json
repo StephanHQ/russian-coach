@@ -63,7 +63,7 @@
       "prompt": "What did she buy at the market?",
       "options": ["Bread and cheese", "A newspaper", "A jar of honey", "Flowers for Olya"],
       "answer": 2,
-      "explain": "«Продавщица дала мне попробовать мёд, и я купила целую банку» = she tasted the honey and bought a whole jar."
+      "explain": "«Продавщица дала мне попробовать мёд, и я купила целую банку» = the saleswoman let her taste the honey, and she bought a whole jar."
     },
     {
       "type": "mcq",

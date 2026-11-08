@@ -21,6 +21,6 @@
     {"type": "mcq", "prompt": "Наш дом находится рядом с ___ парком.", "options": ["большой", "большим", "большого", "большом"], "answer": 1, "tag": "case:inst", "level": "B1", "explain": "рядом с + instrumental; masculine adjective -ым / -им (большим)."},
     {"type": "fill", "prompt": "Он руководит ___.", "base": "большая компания", "hint": "He runs a big company.", "answer": ["большой компанией"], "tag": "case:inst", "level": "B2", "explain": "руководить (to run, to lead) + instrumental."},
     {"type": "translate", "prompt": "I want to talk to you.", "answer": ["Я хочу поговорить с тобой.", "Я хочу поговорить с вами.", "Я хочу с тобой поговорить.", "Я хочу с вами поговорить."], "tag": "case:inst", "level": "A2", "explain": "поговорить с + instrumental: ты → с тобой, вы → с вами."},
-    {"type": "translate", "prompt": "My brother is interested in football.", "answer": ["Мой брат интересуется футболом.", "Брат интересуется футболом.", "Мой брат увлекается футболом."], "tag": "case:inst", "level": "B1", "explain": "интересоваться + instrumental, no preposition: футбол → футболом."}
+    {"type": "translate", "prompt": "My brother is interested in football.", "answer": ["Мой брат интересуется футболом.", "Брат интересуется футболом.", "Мой брат увлекается футболом.", "Брат увлекается футболом."], "tag": "case:inst", "level": "B1", "explain": "интересоваться + instrumental, no preposition: футбол → футболом."}
   ]
 }
