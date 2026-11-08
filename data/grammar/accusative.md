@@ -10,7 +10,7 @@ test: accusative-1
 
 **Questions:** кого? что? (whom? what?) · куда? (where to?)
 
-The accusative marks the direct object and the goal of a movement. Good news: many words don't change at all. The ones that do are feminine nouns in -а / -я and living masculine nouns.
+The accusative marks the direct object and the goal of a movement. Good news: many words don't change at all. The ones that do are feminine nouns in -а / -я, living masculine nouns, and living beings in the plural.
 
 ## When to use it
 

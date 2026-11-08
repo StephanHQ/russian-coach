@@ -56,9 +56,9 @@ After the nominative, the genitive is the most frequent case. Think **of**, **no
 |---|---|---|
 | 1, 21, 31 … | nominative singular | один брат, одна книга, двадцать один год |
 | 2, 3, 4, 22, 23, 24 … | genitive singular | два брата, две книги, четыре года |
-| 5–20, 25–30 …, много, сколько | genitive plural | пять братьев, десять книг, двадцать лет |
+| 5–20, 25–30 …; много, сколько with countable nouns | genitive plural | пять братьев, десять книг, двадцать лет |
 
-- 11–14 always take the genitive plural: одиннадцать лет, четырнадцать минут.
+- 11–14 take the genitive plural, not the forms for 1–4: одиннадцать лет, четырнадцать минут.
 - два / оба for masculine and neuter, две / обе for feminine: два брата, две сестры.
 
 ## Pronoun forms
@@ -109,9 +109,9 @@ After the nominative, the genitive is the most frequent case. Think **of**, **no
 | У меня не есть машина. | У меня нет машины. | The negation of есть is нет + genitive. |
 | Я из Германия. | Я из Германии. | из + genitive; -ия → -ии. |
 | Я иду из работы. | Я иду с работы. | на работе → с работы (на ↔ с, в ↔ из). |
-| пять минуты, пять минутов | пять минут | 5+ → genitive plural; f. -а → no ending. |
+| пять минуты, пять минутов | пять минут | 5–20 → genitive plural; f. -а → no ending. |
 | два брат, два братья | два брата | 2–4 → genitive singular. |
-| много люди | много людей | много + genitive plural. |
+| много люди | много людей | много + genitive plural (countable nouns). |
 | у его есть | у него есть | A pronoun after a preposition takes н-. |
 
 ## Quick check

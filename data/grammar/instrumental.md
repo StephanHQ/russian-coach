@@ -77,7 +77,7 @@ German has no instrumental. It covers German *mit*, the tool you use, and *als* 
 
 > **за, под take two cases.** Direction (куда?) → accusative: Положи сумку под стол. Location (где?) → instrumental: Сумка лежит под столом.
 
-- **Being and becoming:** быть (past and future), стать, работать. In the present there is no быть, so the job stays in the nominative: Он врач. But: Он был врачом. Он будет врачом.
+- **Being and becoming:** быть (past, future, infinitive), стать, работать. In the present there is no быть, so the job stays in the nominative: Он врач. But: Он был врачом. Он будет врачом. Я хочу быть врачом.
 - **Activities and feelings:** заниматься, интересоваться, увлекаться (be keen on), пользоваться (use), гордиться (be proud of), руководить (run, lead), болеть (be ill with: болеть гриппом).
 - **Verbs with с:** познакомиться с, встречаться с, разговаривать с, дружить с, поздравлять с (Поздравляю тебя с днём рождения!).
 

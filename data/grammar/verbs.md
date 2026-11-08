@@ -42,9 +42,9 @@ Russian verbs change for **person** in the present (я, ты, он…) and for *
 | ходить (walk, go) | хожу | ходишь | ходит | ходим | ходите | ходят |
 
 - **хотеть** is mixed: singular like the 1st conjugation (хочешь), plural like the 2nd (хотим, хотят).
-- **мочь:** г only in the я- and они-forms (могу, могут), ж everywhere else.
+- **мочь:** in the present, г only in the я- and они-forms (могу, могут), ж everywhere else.
 - **дать** is perfective, so я дам means *I will give*. *I give* is я даю (давать).
-- **писать** changes с → ш in **every** form.
+- **писать** changes с → ш in **every** present-tense form.
 - 2nd-conjugation verbs change the consonant **only in the я-form:** любить → люблю, купить → куплю (б, п, в, м + л); ходить → хожу (д → ж); платить → плачу (т → ч); просить → прошу (с → ш).
 
 ## Past tense
@@ -103,6 +103,7 @@ Take the **они**-form, remove the ending (-ют, -ут, -ят, -ат), then a
 | a consonant, я-form stressed on the ending | -и(те) | говор-ят → говори(те), пиш-ут → пиши(те), ид-ут → иди(те) |
 | a consonant, я-form stressed on the stem | -ь(те) | готов-ят → готовь(те), встан-ут → встань(те) |
 
+- After two consonants it is -и even with stem stress: помн-ят → помни(те), чист-ят → чисти(те). Perfective verbs with вы- take the ending of the simple verb: выйди (иди), выучи (учи).
 - **-те** is the **вы**-form: for several people, or for one person you call вы. Говорите, пожалуйста, медленнее. *Please speak more slowly.*
 - -ся verbs: садись / садитесь, занимайся / занимайтесь.
 - Irregular: давать → давай (also вставать → вставай), есть → ешь, пить → пей, дать → дай, лечь → ляг, ехать → поезжай, быть → будь.

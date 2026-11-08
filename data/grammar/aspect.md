@@ -8,7 +8,7 @@ test: aspect-1
 
 # Aspect (вид глагола)
 
-Almost every Russian verb comes as a pair: **imperfective** (НСВ, несовершенный вид) and **perfective** (СВ, совершенный вид). German and English don't mark this, so ask one question every time: **process or result?**
+Most Russian verbs come in pairs: **imperfective** (НСВ, несовершенный вид) and **perfective** (СВ, совершенный вид). German and English don't mark this, so ask one question every time: **process or result?**
 
 - **Imperfective:** the action as a process, a habit, or a plain fact ("did it happen at all?").
 - **Perfective:** one complete action with a result or an end point.
@@ -59,7 +59,7 @@ Almost every Russian verb comes as a pair: **imperfective** (НСВ, несов�
 ## How pairs are formed
 
 1. **Prefix** (imperfective → perfective): писать → написать, делать → сделать, читать → прочитать, видеть → увидеть, пить → выпить, звонить → позвонить.
-2. **Suffix** (the imperfective is the longer verb): решить → решать, ответить → отвечать, рассказать → рассказывать, открыть → открывать, дать → давать.
+2. **Suffix** (perfective → imperfective, with -а- / -я-, -ва- or -ыва- / -ива-): решить → решать, ответить → отвечать, рассказать → рассказывать, открыть → открывать, дать → давать.
 3. **Different stems:** говорить / сказать, брать / взять, класть / положить, ловить / поймать, садиться / сесть, ложиться / лечь.
 
 > Not every prefix just adds "result": переписать (rewrite) and подписать (sign) are new verbs with their own imperfectives (переписывать, подписывать). And говорить in the sense *talk* has the perfective поговорить (talk for a while).

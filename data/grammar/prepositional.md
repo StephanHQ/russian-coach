@@ -20,7 +20,7 @@ The prepositional is the only case that never stands without a preposition. Its 
 - **Instruments with играть на.** Он играет на гитаре. *He plays the guitar.*
 - **Clothes with в (wearing).** Она в красном платье. *She's wearing a red dress.*
 - **Time: months, years, weeks.** в мае *in May*, в прошлом году *last year*, на этой неделе *this week*.
-- **при (B2): in front of, in the time of.** Не говори об этом при детях. *Don't talk about it in front of the children.*
+- **при (B2): in the presence of, in the time of.** Не говори об этом при детях. *Don't talk about it in front of the children.*
 
 ## Endings
 
@@ -41,7 +41,7 @@ The prepositional is the only case that never stands without a preposition. Its 
 - мать, дочь → о матери, о дочери; время, имя → о времени, об имени.
 - Words like метро, кафе, кино, такси never change: в кафе, на метро.
 
-> **Stressed -у after в / на:** some short masculine nouns take -у for location: в лесу, в саду, в шкафу, в аэропорту, на полу, на берегу, на мосту, в углу, в году (в этом году). After о they are regular: о лесе, об аэропорте.
+> **Stressed -у after в / на:** some masculine nouns (mostly short ones) take -у for location: в лесу, в саду, в шкафу, в аэропорту, на полу, на берегу, на мосту, в углу, в году (в этом году). After о they are regular: о лесе, об аэропорте.
 
 ## Pronoun forms
 
@@ -67,7 +67,7 @@ The prepositional is the only case that never stands without a preposition. Its 
 | в / во | in, inside | в доме, во Франции |
 | на | on; at (events, open places) | на столе, на работе |
 | о / об / обо | about | о брате, об этом, обо мне |
-| при (B2) | in front of, in the time of | при детях, при Петре Первом |
+| при (B2) | in the presence of; in the time of | при детях, при Петре Первом |
 
 - Verbs with о: думать, говорить, рассказывать, писать, читать, знать, мечтать, спрашивать.
 - Verbs with на: играть на (instrument), жениться на (*to marry a woman*): Он женился на Анне.
@@ -79,7 +79,7 @@ The prepositional is the only case that never stands without a preposition. Its 
 - **на** for events and activities: на работе, на уроке, на концерте, на лекции, на выставке.
 - **на** for open spaces and compass points: на улице, на площади, на стадионе, на севере, на юге.
 - **на** with some words you just learn: на почте, на вокзале, на станции, на заводе, на кухне, на рынке, на даче, на этаже.
-- **на** for islands and mountain regions: на Кипре, на Кавказе, на Урале.
+- **на** for many islands and some mountain regions: на Кипре, на Кавказе, на Урале (but в Альпах).
 
 > **Partner rule:** в goes with из, на goes with с. в школе → в школу → из школы; на работе → на работу → с работы.
 

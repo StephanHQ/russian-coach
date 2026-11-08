@@ -14,7 +14,7 @@ The dative is the case of the person who receives something, benefits from it or
 
 ## When to use it
 
-- **Receiver: to / for someone.** Я дал брату книгу. *I gave my brother a book.* Позвони маме! *Call mum!*
+- **Receiver: to / for someone.** Я дал брату книгу. *I gave my brother a book.* Позвони маме! *Call Mum!*
 - **Liking with нравиться.** Мне нравится Москва. *I like Moscow.* Детям нравятся мультфильмы. *Children like cartoons.*
 - **Need and permission: надо, нужно, можно, нельзя.** Мне надо работать. *I have to work.* Тебе нельзя курить. *You mustn't smoke.*
 - **Feelings and states (no subject).** Мне холодно. *I'm cold.* Нам было весело. *We had fun.*
@@ -32,7 +32,7 @@ The dative is the case of the person who receives something, benefits from it or
 | n. -ие | здание → зданию | зданиям |
 | f. -а, -я | мама → маме, Таня → Тане | мамам |
 | f. -ия | Мария → Марии, лекция → лекции | лекциям |
-| f. -ь | мать → матери, дочь → дочери | матерям, дочерям |
+| f. -ь | тетрадь → тетради, мать → матери, дочь → дочери | тетрадям, матерям, дочерям |
 
 - The plural is always **-ам / -ям**: друзьям, детям, людям, сёстрам.
 - Masculine nouns in -а / -я take -е: папе, дедушке, Саше.
@@ -67,7 +67,7 @@ The dative is the case of the person who receives something, benefits from it or
 | по | along, around; by (phone, post); subject; every | по улице, по телефону, экзамен по истории, по субботам |
 | благодаря | thanks to | благодаря другу |
 
-> **к is for people.** Я иду к врачу, but в больницу. Я еду к бабушке, but в деревню.
+> **Going to a person: к, not в / на.** Я иду к врачу, but в больницу. Я еду к бабушке, but в деревню. With places and things к means *towards, up to*: Подойди к окну.
 
 - **Verbs + dative (кому?):** давать / дать, дарить, показывать, говорить / сказать, рассказывать, объяснять, писать, звонить, отвечать, помогать, советовать, мешать, обещать, верить, нравиться.
 - **желать** takes both: кому (dative) + чего (genitive): Желаю тебе удачи!

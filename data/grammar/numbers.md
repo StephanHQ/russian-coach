@@ -48,11 +48,11 @@ test: numbers-1
 
 - Masculine and neuter nouns: adjective in the **genitive plural**: два новых стола, три больших окна.
 - Feminine nouns: usually **nominative plural** (genitive plural is also correct): две новые книги.
-- From 5 up, everything is genitive plural: пять новых книг.
+- With 5–20, tens and hundreds as the last word, everything is genitive plural: пять новых книг.
 
 ## Age
 
-Dative of the person + number + **год / года / лет**, with no verb:
+Dative of the person + number + **год / года / лет**, with no verb in the present:
 
 - Мне двадцать один год. *I'm 21.*
 - Ему двадцать три года. *He's 23.*
@@ -105,7 +105,7 @@ Ordinals are adjectives: первый, второй, третий, четвёр�
 
 | Wrong | Right | Why |
 |---|---|---|
-| два рублей, пять рубля | два рубля, пять рублей | 2–4 → gen. sg.; 5 and up → gen. pl. |
+| два рублей, пять рубля | два рубля, пять рублей | 2–4 → gen. sg.; 5–20 → gen. pl. |
 | двадцать один года | двадцать один год | Follow the last word. |
 | двенадцать года | двенадцать лет | 11–14 → genitive plural. |
 | два книги | две книги | книга is feminine → две. |

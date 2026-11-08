@@ -103,7 +103,7 @@ Russian nouns, adjectives and pronouns change their endings to show their job in
 
 - **Dativ = дательный, mostly.** Мне холодно = *mir ist kalt*, мне нравится = *mir gefällt*. But *wo?* + Dativ after in / auf is the Russian **prepositional**: в школе = *in der Schule*, на столе = *auf dem Tisch*.
 - **Akkusativ = винительный**, including *wohin?*: в школу = *in die Schule*.
-- **Genitiv = родительный, but used far more:** after нет, after numbers (два брата, пять минут), after много / мало / сколько and after many prepositions (у, из, без, для, после). Possession is always the plain genitive: машина брата.
+- **Genitiv = родительный, but used far more:** after нет, after numbers (два брата, пять минут), after много / мало / сколько and after many prepositions (у, из, без, для, после). The owner is the plain genitive after the noun, with no preposition like *von*: машина брата.
 - **Extra case 1, instrumental:** German *mit* (с другом = *mit dem Freund*), the tool without a preposition (писать ручкой = *mit dem Stift schreiben*) and *als* with jobs (работать учителем = *als Lehrer arbeiten*).
 - **Extra case 2, prepositional:** never without a preposition. Mainly в / на for *wo?* and о for *über* (говорить о брате = *über den Bruder sprechen*).
 - **Animate accusative:** German changes *der → den* for every masculine noun. Russian changes a masculine noun in the accusative only if it is alive, and then it looks like the genitive: Я вижу стол, but Я вижу брата. In the plural this applies to all genders: Я вижу столы, but Я вижу студентов, сестёр.
