@@ -16,7 +16,7 @@
     "cefr": null,
     "torfl": null,
     "confidence": "none",
-    "note": "Placement in progress: grammar test done (2026-11-08). Writing, speaking and reading samples still to come before levels are set."
+    "note": "Placement in progress: grammar test (2026-11-08) and writing sample (2026-11-09) done. Speaking sample and one reading still to come."
   },
   "levels": {
     "reading": {
@@ -34,11 +34,11 @@
       "updated": null
     },
     "writing": {
-      "cefr": null,
+      "cefr": "A2",
       "confidence": "low",
       "trend": null,
-      "evidence": "Only the 4 placement translations so far (40 words): meaning clear in 3 of 4, about 60 errors per 100 words, roughly half of them spelling (writes by ear). Needs a real writing sample.",
-      "updated": "2026-11-08"
+      "evidence": "Writing sample 2026-11-09 (w-a2-01, 79 words): a connected story with connectors (но, поэтому), feelings and a sequence of events; some B1 vocabulary (дешевле, пригласил, проверить). 45 errors = 57 per 100 words: 22 spelling, 20 grammar (25 per 100 words: accusative objects and time phrases, dative, agreement, numbers), 3 word choice. Meaning clear throughout except one phrase. A2 task fulfilment with A2-bottom accuracy; one sample only.",
+      "updated": "2026-11-09"
     },
     "speaking": {
       "cefr": null,
@@ -51,15 +51,15 @@
       "cefr": null,
       "confidence": "low",
       "trend": null,
-      "evidence": "Placement 2026-11-08, raw: A1 6/11 (55%), A2 4/11 (36%), B1 2/11 (18%), B2 1/11. Counting 5 spelling-only errors as grammar-correct: A1 8/11 (73%), A2 4/11, B1 5/11 (45%). Below the 75% bar even at A1, so no level recorded yet. Patchy profile: some B1 structures known (чтобы + past, prefixed motion verbs, -ами), basic singular endings and agreement not yet reliable.",
-      "updated": "2026-11-08"
+      "evidence": "Placement 2026-11-08, raw: A1 6/11 (55%), A2 4/11 (36%), B1 2/11 (18%), B2 1/11. Counting 5 spelling-only errors as grammar-correct: A1 8/11 (73%), A2 4/11, B1 5/11 (45%). Below the 75% bar even at A1, so no level recorded yet. Patchy profile: some B1 structures known (чтобы + past, prefixed motion verbs, -ами), basic singular endings and agreement not yet reliable. Writing sample 2026-11-09: masculine past (болел, купил, пригласил) and perfective after надо (прочитать, проверить) right; endings on objects mostly missing (мой школьная работа, пригласил они), plural agreement wrong (они был).",
+      "updated": "2026-11-09"
     },
     "vocabulary": {
       "cefr": null,
       "confidence": "none",
       "trend": null,
-      "evidence": "Active everyday vocabulary looks solid in the translations (сестра, работать, кино, друг, фильм, помощь, найти работу); not measured yet.",
-      "updated": "2026-11-08"
+      "evidence": "Active everyday vocabulary is solid in translations and the writing sample (пригласил, дешевле, сразу, проверить, костюмы, ресторан); some word-choice slips (тоже for 'also', обед for an evening meal). Not measured in reading yet.",
+      "updated": "2026-11-09"
     }
   },
   "weak_points": [
@@ -70,9 +70,35 @@
       "severity": "high",
       "examples": [
         "*другам → другом",
-        "*пашол → пошёл",
-        "*невидел → не видел",
-        "*прийдёш → придёшь"
+        "*нада → надо",
+        "*бил → был",
+        "*сичас → сейчас",
+        "*по этаму → поэтому"
+      ],
+      "since": "2026-11-08",
+      "status": "active"
+    },
+    {
+      "id": "acc-objects",
+      "tag": "case:acc",
+      "label": "Accusative for objects and time phrases (кого? что? когда?)",
+      "severity": "high",
+      "examples": [
+        "*заканчиваю мой работа → свою работу",
+        "*пригласил они → пригласил их",
+        "*в этом вечер → в этот вечер"
+      ],
+      "since": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "id": "dat-endings",
+      "tag": "case:dat",
+      "label": "Dative: кому? (писать, звонить, помогать) and after благодаря",
+      "severity": "high",
+      "examples": [
+        "*пишу сестрой → пишу сестре",
+        "*которая я помог → которой я помог"
       ],
       "since": "2026-11-08",
       "status": "active"
@@ -91,27 +117,28 @@
       "status": "active"
     },
     {
-      "id": "dat-endings",
-      "tag": "case:dat",
-      "label": "Dative: кому? (писать, звонить, помогать) and after благодаря",
-      "severity": "high",
-      "examples": [
-        "*пишу сестрой → пишу сестре",
-        "*которая я помог → которой я помог"
-      ],
-      "since": "2026-11-08",
-      "status": "active"
-    },
-    {
       "id": "agreement",
       "tag": "verb:past",
       "label": "Agreement with the subject: past tense gender, мне понравился / понравилась",
       "severity": "medium",
       "examples": [
         "*Анна был → Анна была",
+        "*они бил → они были",
         "*мне нравилось фильм → мне понравился фильм"
       ],
       "since": "2026-11-08",
+      "status": "active"
+    },
+    {
+      "id": "num-nouns",
+      "tag": "num",
+      "label": "Numbers with nouns: 2–4 + genitive singular; евро never changes",
+      "severity": "medium",
+      "examples": [
+        "*четыре костюмы → четыре костюма",
+        "*сто евра → сто евро"
+      ],
+      "since": "2026-11-09",
       "status": "active"
     },
     {
@@ -138,20 +165,32 @@
       ],
       "since": "2026-11-08",
       "status": "active"
+    },
+    {
+      "id": "tozhe-eshche",
+      "tag": "vocab",
+      "label": "тоже (too, same as someone) vs ещё / также (also, in addition)",
+      "severity": "low",
+      "examples": [
+        "*Тоже я купил… → Ещё я купил…"
+      ],
+      "since": "2026-11-09",
+      "status": "active"
     }
   ],
   "strengths": [
     "Understands a lot and has a useful active vocabulary for everyday topics",
+    "Tells a connected story with connectors (но, поэтому), feelings and reasons",
     "Already uses key patterns: мне нравится, у неё (есть), с + instrumental, чтобы + past",
-    "Attempts complex sentences (который, если) instead of avoiding them"
+    "Masculine past tense and common perfective verbs mostly right (купил, пригласил, проверить)"
   ],
   "focus": [
     "spelling",
-    "case:gen",
+    "case:acc",
     "case:dat"
   ],
   "plan": {
-    "next_session": "Placement, part 2: a short writing sample in chat (w-a2-01 'Last weekend', 60–80 words, no translator), then a 5–10 minute speaking sample in voice mode, and the A2 reading 'Выходные без телефона' in the app. Then set first levels. First lessons after that: the Spelling sheet and test, genitive after нет / много, dative (кому?).",
+    "next_session": "Placement, part 3: a 5–10 minute speaking sample in voice mode (Practice → Speaking, e.g. 'Weekend plans' or 'About yourself'), plus the A2 reading 'Выходные без телефона' in the Read tab and a copied report. Then set first levels and start lessons: 1) Spelling sheet and test, 2) accusative for objects and time, 3) dative (кому?).",
     "milestones": [
       {
         "goal": "Spelling test (spelling-1) at 80% or more",
@@ -196,6 +235,23 @@
         "spelling_share_of_errors": "about 50%"
       },
       "level_changes": []
+    },
+    {
+      "date": "2026-11-09",
+      "type": "placement",
+      "summary": "Placement part 2 (writing sample, A2 prompt, 79 words): connected story with A2 task fulfilment; 57 errors per 100 words (22 spelling, 20 grammar, 3 word choice). Initial writing level A2, low confidence. +15 cards.",
+      "evidence": {
+        "words": 79,
+        "errors": 45,
+        "errors_per_100": 57,
+        "spelling": 22,
+        "grammar": 20,
+        "word_choice": 3,
+        "grammar_per_100": 25
+      },
+      "level_changes": [
+        "writing: none → A2 (initial, low confidence)"
+      ]
     }
   ]
 }
