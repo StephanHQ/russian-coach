@@ -16,7 +16,7 @@
     "cefr": null,
     "torfl": null,
     "confidence": "none",
-    "note": "Placement in progress: grammar test (2026-11-08) and writing sample (2026-11-09) done. Speaking sample and one reading still to come."
+    "note": "Placement in progress: grammar test (2026-11-08), writing sample (2026-11-09) and speaking sample (2026-11-18) done. Reading report still to come."
   },
   "levels": {
     "reading": {
@@ -41,25 +41,25 @@
       "updated": "2026-11-09"
     },
     "speaking": {
-      "cefr": null,
-      "confidence": "none",
+      "cefr": "A2",
+      "confidence": "low",
       "trend": null,
-      "evidence": "",
-      "updated": null
+      "evidence": "Speaking sample 2026-11-18 (voice mode, about 10 min, 15 turns, 189 words, interviewer-led): answered every question on studies, work, weekend plans and food; gave reasons (потому что) and a concession (конечно…, но…); asked for clarification in Russian. Turns average 13 words, longest 28 (2–3 clauses joined with и, но, потому что). Did not narrate the past weekend (avoided it). 18 grammar errors = 9.5 per 100 words (motion verbs идти/ехать 3, future 3, accusative 2, instrumental 2, pronouns 2, verb endings 2) + 4 word-choice errors (3 German calques); meaning always clear. A2 interaction with A2 accuracy; one sample only. Transcript only: pronunciation not judged, and speech recognition may hide or add ending errors, so the error rate is probably an underestimate.",
+      "updated": "2026-11-18"
     },
     "grammar": {
       "cefr": null,
       "confidence": "low",
       "trend": null,
-      "evidence": "Placement 2026-11-08, raw: A1 6/11 (55%), A2 4/11 (36%), B1 2/11 (18%), B2 1/11. Counting 5 spelling-only errors as grammar-correct: A1 8/11 (73%), A2 4/11, B1 5/11 (45%). Below the 75% bar even at A1, so no level recorded yet. Patchy profile: some B1 structures known (чтобы + past, prefixed motion verbs, -ами), basic singular endings and agreement not yet reliable. Writing sample 2026-11-09: masculine past (болел, купил, пригласил) and perfective after надо (прочитать, проверить) right; endings on objects mostly missing (мой школьная работа, пригласил они), plural agreement wrong (они был).",
-      "updated": "2026-11-09"
+      "evidence": "Placement 2026-11-08, raw: A1 6/11 (55%), A2 4/11 (36%), B1 2/11 (18%), B2 1/11. Counting 5 spelling-only errors as grammar-correct: A1 8/11 (73%), A2 4/11, B1 5/11 (45%). Below the 75% bar even at A1, so no level recorded yet. Patchy profile: some B1 structures known (чтобы + past, prefixed motion verbs, -ами), basic singular endings and agreement not yet reliable. Writing sample 2026-11-09: masculine past (болел, купил, пригласил) and perfective after надо (прочитать, проверить) right; endings on objects mostly missing (мой школьная работа, пригласил они), plural agreement wrong (они был). Speaking 2026-11-18: right in speech: мне нравится + nominative, надо + infinitive, заниматься спортом, с + instrumental, будем + imperfective, нет … планов; wrong: идти for trips by car (3), буду + perfective (4, once right after a correction), *этом for в эти выходные, *занимаюсь с + noun.",
+      "updated": "2026-11-18"
     },
     "vocabulary": {
       "cefr": null,
       "confidence": "none",
       "trend": null,
-      "evidence": "Active everyday vocabulary is solid in translations and the writing sample (пригласил, дешевле, сразу, проверить, костюмы, ресторан); some word-choice slips (тоже for 'also', обед for an evening meal). Not measured in reading yet.",
-      "updated": "2026-11-09"
+      "evidence": "Active everyday vocabulary is solid in translations and the writing sample (пригласил, дешевле, сразу, проверить, костюмы, ресторан); some word-choice slips (тоже for 'also', обед for an evening meal). Not measured in reading yet. Speaking 2026-11-18: enough range for studies, work, weekend plans and food; three gaps filled with German calques (e.g. праксис for практика, делать кушать for готовить); register slips (девчонка, кушать about himself).",
+      "updated": "2026-11-18"
     }
   },
   "weak_points": [
@@ -86,7 +86,9 @@
       "examples": [
         "*заканчиваю мой работа → свою работу",
         "*пригласил они → пригласил их",
-        "*в этом вечер → в этот вечер"
+        "*в этом вечер → в этот вечер",
+        "*этом выходные → в эти выходные",
+        "*в городу → в город"
       ],
       "since": "2026-11-09",
       "status": "active"
@@ -111,7 +113,9 @@
       "examples": [
         "*нет молоко → нет молока",
         "*много музее → много музеев",
-        "*встретил друзия → встретил друзей"
+        "*встретил друзия → встретил друзей",
+        "*никакой интереса → никакого интереса",
+        "*сколько текст → сколько текстов"
       ],
       "since": "2026-11-08",
       "status": "active"
@@ -144,12 +148,13 @@
     {
       "id": "inst-prep",
       "tag": "case:inst",
-      "label": "Instrumental after с; prepositional of -ия nouns and city names",
+      "label": "Instrumental after с and after заниматься (no с!); prepositional of -ия nouns and city names",
       "severity": "medium",
       "examples": [
         "*с лимону → с лимоном",
         "*в Россие → в России",
-        "*в гамбург → в Гамбурге"
+        "*в гамбург → в Гамбурге",
+        "*занимаюсь с историей → занимаюсь историей"
       ],
       "since": "2026-11-08",
       "status": "active"
@@ -161,7 +166,8 @@
       "severity": "medium",
       "examples": [
         "*весь вечер прочитал → весь вечер читал",
-        "*когда закончивает → когда закончу"
+        "*когда закончивает → когда закончу",
+        "*я отдавал работу (handed in, done) → я сдал работу"
       ],
       "since": "2026-11-08",
       "status": "active"
@@ -170,11 +176,62 @@
       "id": "tozhe-eshche",
       "tag": "vocab",
       "label": "тоже (too, same as someone) vs ещё / также (also, in addition)",
-      "severity": "low",
+      "severity": "medium",
       "examples": [
-        "*Тоже я купил… → Ещё я купил…"
+        "*Тоже я купил… → Ещё я купил…",
+        "*Но я тоже уже работаю → А ещё я уже работаю"
       ],
       "since": "2026-11-09",
+      "status": "active"
+    },
+    {
+      "id": "future-budu",
+      "tag": "verb:future",
+      "label": "Future: буду + imperfective only (буду делать); perfective verbs have a one-word future (сделаю, прочитаю, поедем)",
+      "severity": "high",
+      "examples": [
+        "*буду сделать → буду делать / сделаю",
+        "*я буду прочитать → я буду читать / я прочитаю",
+        "*мы поехали (a plan) → мы поедем"
+      ],
+      "since": "2026-11-18",
+      "status": "active"
+    },
+    {
+      "id": "motion-foot-vehicle",
+      "tag": "verb:motion",
+      "label": "идти / ходить (on foot) vs ехать / ездить (by car or train, to another city or country); ходить / ездить for habits",
+      "severity": "high",
+      "examples": [
+        "*мы пойдём на машине → мы поедем на машине",
+        "*часто я пойду гулять → часто я хожу гулять"
+      ],
+      "since": "2026-11-18",
+      "status": "active"
+    },
+    {
+      "id": "pron-forms",
+      "tag": "pron",
+      "label": "Pronouns: он / она follows the noun's gender (фирма → у неё); after нет use ни-: нет никаких планов",
+      "severity": "medium",
+      "examples": [
+        "*фирма… у него → у неё",
+        "*нет каких планов → нет никаких планов"
+      ],
+      "since": "2026-11-18",
+      "status": "active"
+    },
+    {
+      "id": "calques-register",
+      "tag": "vocab",
+      "label": "German calques and register: Praxis → практика, Essen machen → готовить; девчонка (slang) → девушка, кушать about yourself → есть",
+      "severity": "low",
+      "examples": [
+        "*это больше праксис → это больше практика",
+        "*делать кушать → готовить",
+        "девчонка → девушка"
+      ],
+      "since": "2026-11-18",
       "status": "active"
     }
   ],
@@ -182,15 +239,16 @@
     "Understands a lot and has a useful active vocabulary for everyday topics",
     "Tells a connected story with connectors (но, поэтому), feelings and reasons",
     "Already uses key patterns: мне нравится, у неё (есть), с + instrumental, чтобы + past",
-    "Masculine past tense and common perfective verbs mostly right (купил, пригласил, проверить)"
+    "Masculine past tense and common perfective verbs mostly right (купил, пригласил, проверить)",
+    "Keeps a conversation going: in a 10-minute voice conversation he answered every question, gave reasons (потому что, конечно…, но…) and asked for clarification in Russian"
   ],
   "focus": [
     "spelling",
     "case:acc",
-    "case:dat"
+    "verb:future"
   ],
   "plan": {
-    "next_session": "Placement, part 3: a 5–10 minute speaking sample in voice mode (Practice → Speaking, e.g. 'Weekend plans' or 'About yourself'), plus the A2 reading 'Выходные без телефона' in the Read tab and a copied report. Then set first levels and start lessons: 1) Spelling sheet and test, 2) accusative for objects and time, 3) dative (кому?).",
+    "next_session": "Finish placement: paste the app report for the A2 reading 'Выходные без телефона' (Home → Report for Claude → Copy report), then set first levels. Lessons after that: 1) spelling sheet and test (milestone 22 Nov), 2) accusative for objects, time and direction (в эти выходные, в город), 3) talking about plans: буду делать vs сделаю, пойду vs поеду, 4) dative (кому?).",
     "milestones": [
       {
         "goal": "Spelling test (spelling-1) at 80% or more",
@@ -251,6 +309,37 @@
       },
       "level_changes": [
         "writing: none → A2 (initial, low confidence)"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "type": "placement",
+      "summary": "Placement part 3 (speaking sample, voice mode, about 10 min, 15 turns, 189 words): answered every question, gave reasons and plans, asked for clarification in Russian; turns average 13 words. 18 grammar errors (9.5 per 100 words: motion verbs, буду + perfective, accusative, instrumental) and 4 word-choice errors; meaning always clear. Initial speaking level A2, low confidence. +16 cards.",
+      "evidence": {
+        "turns": 15,
+        "words": 189,
+        "avg_turn_words": 12.6,
+        "longest_turn_words": 28,
+        "grammar_errors": 18,
+        "grammar_per_100": 9.5,
+        "word_choice_errors": 4,
+        "errors_by_tag": {
+          "verb:motion": 3,
+          "verb:future": 3,
+          "case:acc": 2,
+          "case:inst": 2,
+          "pron": 2,
+          "verb:conj": 2,
+          "case:gen": 1,
+          "case:nom": 1,
+          "verb:aspect": 1,
+          "phrase": 1
+        },
+        "after_sample": "буду + perfective twice more (once right after a correction), then right: я буду читать; сколько + nominative once",
+        "limits": "Transcript only: pronunciation not judged; speech recognition may hide or add ending errors; the first two turns were misrecognised as German and excluded."
+      },
+      "level_changes": [
+        "speaking: none → A2 (initial, low confidence)"
       ]
     }
   ]
