@@ -11,20 +11,20 @@
     "Control case endings and verb aspect in real sentences",
     "Close the gap between what he understands and what he can say"
   ],
-  "assessed": false,
+  "assessed": true,
   "overall": {
-    "cefr": null,
-    "torfl": null,
-    "confidence": "none",
-    "note": "Placement in progress: grammar test (2026-11-08), writing sample (2026-11-09) and speaking sample (2026-11-18) done. Reading report still to come."
+    "cefr": "A2",
+    "torfl": "ТБУ",
+    "confidence": "low",
+    "note": "Placement complete (2026-11-08 → 2026-11-18): A2 in reading, writing and speaking; listening not measured yet; grammar test items below the A1 bar (73% adjusted) despite A2 communication. Receptive–productive gap: the A2 text was 5/5 with no unknown words (ceiling not reached), while writing and speaking are A2 with frequent errors; spelling is the biggest gap in writing (9 of 19 words misspelled in the latest answers)."
   },
   "levels": {
     "reading": {
-      "cefr": null,
-      "confidence": "none",
-      "trend": null,
-      "evidence": "",
-      "updated": null
+      "cefr": "A2",
+      "confidence": "low",
+      "trend": "up",
+      "evidence": "A2 text 'Выходные без телефона' (2026-11-18, read mode): 5/5 comprehension questions, 0 of 168 words marked unknown (self-marked). Ceiling not reached; one text only. Next check: a B1 text.",
+      "updated": "2026-11-18"
     },
     "listening": {
       "cefr": null,
@@ -37,8 +37,8 @@
       "cefr": "A2",
       "confidence": "low",
       "trend": null,
-      "evidence": "Writing sample 2026-11-09 (w-a2-01, 79 words): a connected story with connectors (но, поэтому), feelings and a sequence of events; some B1 vocabulary (дешевле, пригласил, проверить). 45 errors = 57 per 100 words: 22 spelling, 20 grammar (25 per 100 words: accusative objects and time phrases, dative, agreement, numbers), 3 word choice. Meaning clear throughout except one phrase. A2 task fulfilment with A2-bottom accuracy; one sample only.",
-      "updated": "2026-11-09"
+      "evidence": "Writing sample 2026-11-09 (w-a2-01, 79 words): a connected story with connectors (но, поэтому), feelings and a sequence of events; some B1 vocabulary (дешевле, пригласил, проверить). 45 errors = 57 per 100 words: 22 spelling, 20 grammar (25 per 100 words: accusative objects and time phrases, dative, agreement, numbers), 3 word choice. Meaning clear throughout except one phrase. A2 task fulfilment with A2-bottom accuracy; one sample only. Reading answers 2026-11-18 (19 words: one translation and four very short sentences): 9 words misspelled (47%), 3 case errors (как + nominative, всё время, где? → в телефоне), 1 word choice (часто for 'sometimes'); meaning clear; avoided 'leave … on purpose' with a workaround.",
+      "updated": "2026-11-18"
     },
     "speaking": {
       "cefr": "A2",
@@ -55,10 +55,10 @@
       "updated": "2026-11-18"
     },
     "vocabulary": {
-      "cefr": null,
-      "confidence": "none",
-      "trend": null,
-      "evidence": "Active everyday vocabulary is solid in translations and the writing sample (пригласил, дешевле, сразу, проверить, костюмы, ресторан); some word-choice slips (тоже for 'also', обед for an evening meal). Not measured in reading yet. Speaking 2026-11-18: enough range for studies, work, weekend plans and food; three gaps filled with German calques (e.g. праксис for практика, делать кушать for готовить); register slips (девчонка, кушать about himself).",
+      "cefr": "A2",
+      "confidence": "low",
+      "trend": "up",
+      "evidence": "Active everyday vocabulary is solid in translations and the writing sample (пригласил, дешевле, сразу, проверить, костюмы, ресторан); some word-choice slips (тоже for 'also', обед for an evening meal). Not measured in reading yet. Speaking 2026-11-18: enough range for studies, work, weekend plans and food; three gaps filled with German calques (e.g. праксис for практика, делать кушать for готовить); register slips (девчонка, кушать about himself). Reading 2026-11-18: no words marked unknown in an A2 text (168 words). Receptive vocabulary probably above A2; productive range A2 (everyday topics, gaps filled with German).",
       "updated": "2026-11-18"
     }
   },
@@ -66,14 +66,17 @@
     {
       "id": "spelling-by-ear",
       "tag": "spelling",
-      "label": "Writes by ear: unstressed о→а, е→и, ё→о, missing ь (-шь, фильм), ы/и, не + verb joined",
+      "label": "Writes by ear: unstressed о→а, е→и, ё→о, э→е (это), -тся → ца, missing ь, ы/и; не + verb and у + pronoun joined (немагу, умина)",
       "severity": "high",
       "examples": [
         "*другам → другом",
         "*нада → надо",
-        "*бил → был",
         "*сичас → сейчас",
-        "*по этаму → поэтому"
+        "*по этаму → поэтому",
+        "*немагу → не могу",
+        "*умина → у меня",
+        "*остоёца → остаётся",
+        "*ета → это"
       ],
       "since": "2026-11-08",
       "status": "active"
@@ -88,7 +91,8 @@
         "*пригласил они → пригласил их",
         "*в этом вечер → в этот вечер",
         "*этом выходные → в эти выходные",
-        "*в городу → в город"
+        "*в городу → в город",
+        "*всё времине → всё время"
       ],
       "since": "2026-11-09",
       "status": "active"
@@ -240,7 +244,8 @@
     "Tells a connected story with connectors (но, поэтому), feelings and reasons",
     "Already uses key patterns: мне нравится, у неё (есть), с + instrumental, чтобы + past",
     "Masculine past tense and common perfective verbs mostly right (купил, пригласил, проверить)",
-    "Keeps a conversation going: in a 10-minute voice conversation he answered every question, gave reasons (потому что, конечно…, но…) and asked for clarification in Russian"
+    "Keeps a conversation going: in a 10-minute voice conversation he answered every question, gave reasons (потому что, конечно…, но…) and asked for clarification in Russian",
+    "Reading: understood an A2 text completely (5/5) without marking any word as new"
   ],
   "focus": [
     "spelling",
@@ -248,7 +253,7 @@
     "verb:future"
   ],
   "plan": {
-    "next_session": "Finish placement: paste the app report for the A2 reading 'Выходные без телефона' (Home → Report for Claude → Copy report), then set first levels. Lessons after that: 1) spelling sheet and test (milestone 22 Nov), 2) accusative for objects, time and direction (в эти выходные, в город), 3) talking about plans: буду делать vs сделаю, пойду vs поеду, 4) dative (кому?).",
+    "next_session": "Lesson: spelling. Sheet 'spelling', patterns 1, 2, 4 and 7 (unstressed о/е, -тся sounds like [ца], не + verb and у меня written apart, э in это) → controlled practice → 5 own sentences → app test spelling-1 (milestone: 80% by 22 Nov). Before that, in the app: start the daily cards (0 reviews so far). Later lessons: accusative (objects, time, direction), talking about plans (буду делать vs сделаю, пойду vs поеду), dative. Also in the app: read 'Выходные на даче' (B1) to find the reading ceiling, and do one A2 text in listen-first mode for a first listening level.",
     "milestones": [
       {
         "goal": "Spelling test (spelling-1) at 80% or more",
@@ -258,6 +263,11 @@
       {
         "goal": "Retake the placement test: A1 items at 85%+ and A2 items at 75%+",
         "target_date": "2026-12-20",
+        "done": false
+      },
+      {
+        "goal": "Talk about weekend plans for 5 minutes with поеду / пойду and буду + imperfective used correctly",
+        "target_date": "2026-12-13",
         "done": false
       }
     ]
@@ -314,32 +324,47 @@
     {
       "date": "2026-11-18",
       "type": "placement",
-      "summary": "Placement part 3 (speaking sample, voice mode, about 10 min, 15 turns, 189 words): answered every question, gave reasons and plans, asked for clarification in Russian; turns average 13 words. 18 grammar errors (9.5 per 100 words: motion verbs, буду + perfective, accusative, instrumental) and 4 word-choice errors; meaning always clear. Initial speaking level A2, low confidence. +16 cards.",
+      "summary": "Placement part 3, completing placement: speaking sample (voice, about 10 min, 189 words; 9.5 grammar errors per 100 words, meaning always clear) and the A2 reading 'Выходные без телефона' (5/5, no words marked unknown; free answers: 9 of 19 words misspelled, 3 case errors). First levels: reading A2 (trend up), writing A2, speaking A2, vocabulary A2 (trend up), overall A2 / ТБУ, all low confidence. +25 cards.",
       "evidence": {
-        "turns": 15,
-        "words": 189,
-        "avg_turn_words": 12.6,
-        "longest_turn_words": 28,
-        "grammar_errors": 18,
-        "grammar_per_100": 9.5,
-        "word_choice_errors": 4,
-        "errors_by_tag": {
-          "verb:motion": 3,
-          "verb:future": 3,
-          "case:acc": 2,
-          "case:inst": 2,
-          "pron": 2,
-          "verb:conj": 2,
-          "case:gen": 1,
-          "case:nom": 1,
-          "verb:aspect": 1,
-          "phrase": 1
+        "speaking": {
+          "turns": 15,
+          "words": 189,
+          "avg_turn_words": 12.6,
+          "longest_turn_words": 28,
+          "grammar_errors": 18,
+          "grammar_per_100": 9.5,
+          "word_choice_errors": 4,
+          "errors_by_tag": {
+            "verb:motion": 3,
+            "verb:future": 3,
+            "case:acc": 2,
+            "case:inst": 2,
+            "pron": 2,
+            "verb:conj": 2,
+            "case:gen": 1,
+            "case:nom": 1,
+            "verb:aspect": 1,
+            "phrase": 1
+          },
+          "after_sample": "буду + perfective twice more (once right after a correction), then right: я буду читать; сколько + nominative once",
+          "limits": "Transcript only: pronunciation not judged; speech recognition may hide or add ending errors; the first two turns were misrecognised as German and excluded."
         },
-        "after_sample": "буду + perfective twice more (once right after a correction), then right: я буду читать; сколько + nominative once",
-        "limits": "Transcript only: pronunciation not judged; speech recognition may hide or add ending errors; the first two turns were misrecognised as German and excluded."
+        "reading": {
+          "text": "a2-weekend",
+          "mode": "read",
+          "mcq": "5/5",
+          "unknown_words": "0/168 (self-marked)",
+          "free_answer_words": 19,
+          "misspelled_words": 9,
+          "grammar_errors": 3,
+          "word_choice_errors": 1
+        }
       },
       "level_changes": [
-        "speaking: none → A2 (initial, low confidence)"
+        "speaking: none → A2 (initial, low confidence)",
+        "reading: none → A2 (initial, low confidence, trend up)",
+        "vocabulary: none → A2 (initial, low confidence, trend up)",
+        "overall: none → A2 / ТБУ (low confidence); placement complete"
       ]
     }
   ]

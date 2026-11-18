@@ -36,7 +36,8 @@ If you learned Russian mostly by ear, you probably write what you hear: *дру�
 | [типерь] | теперь |
 
 - Check with a stressed form when there is one: сестра → сёстры, десять → деся́тый.
-- Some words you simply learn: меня, тебя, себя, теперь, язык.
+- Some words you simply learn: меня, тебя, себя, теперь, сейчас, язык.
+- At the start of a word, the sound [э] is written э: это, этот, эти, этаж. е at the start is read [йе]: есть, ехать, если.
 
 ## 3. The letter ё
 
@@ -50,6 +51,7 @@ If you learned Russian mostly by ear, you probably write what you hear: *дру�
 - The ты-form always ends in **-шь**: знаешь, хочешь, можешь, придёшь.
 - Infinitives end in -ть (or -ти, -чь): стать, жить, идти, мочь. The past tense has no ь: стал, жил, мог.
 - **-ться or -тся?** Ask the question. Что делать? → учиться (infinitive, with ь): Мне нужно учиться. Что делает? → учится (no ь): Он учится в Берлине.
+- Both -тся and -ться sound like [ца]: учится [учица], остаётся [астаёца]. Never write ца in a verb ending.
 - Some words just have it: фильм, письмо, день, учитель, семья.
 - After ж, ш, ч, щ at the end of a noun: feminine nouns take ь (ночь, дочь, вещь), masculine ones don't (врач, нож, ключ).
 
@@ -63,11 +65,12 @@ If you learned Russian mostly by ear, you probably write what you hear: *дру�
 
 - At the end of a word б, в, г, д, ж, з sound like п, ф, к, т, ш, с: друг [друк], город [горат], хлеб [хлеп]. Check with another form: друга, города, хлеба.
 - The same happens before another consonant: вчера [фчира], в школе [фшколе]. Still written вчера, в школе.
+- вообще is said [вапщэ]: о sounds like а (pattern 1) and б like п before щ. Learn it by sight.
 
 ## 7. Words written apart
 
 - не is written separately from verbs: не знаю, не был, не видел, не мог.
-- Prepositions are separate words: у неё, в школе, с другом, без тебя.
+- Prepositions are separate words: у меня, у неё, в школе, с другом, без тебя.
 - бы is separate: я бы хотел, если бы.
 - One word: нельзя, ничего, никогда, сегодня.
 
@@ -92,6 +95,12 @@ If you learned Russian mostly by ear, you probably write what you hear: *дру�
 | коллегамы | коллегами | 5 |
 | Вцера | Вчера | 6: you hear [фч], you write вч |
 | невидел | не видел | 7 |
+| немагу | не могу | 7 and 1 |
+| умина | у меня | 7 and 2 |
+| ета | это | 2: [э] at the start is э |
+| остоёца | остаётся | 4: -тся sounds like [ца] |
+| всо | всё | 3 |
+| вапже | вообще | 1 and 6 |
 | в гамбург | в Гамбурге | 8, plus the prepositional ending |
 
 ## Quick check
